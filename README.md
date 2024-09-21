@@ -37,15 +37,29 @@ However, I shall presently come back to the sources of ignorance, and also to th
 <!-- page 2 -->
 **I**
 
-The problem which I wish to examine afresh in this lecture, and which I hope not only to examine but to solve, may perhaps be described as an aspect of the old quarrel between the British and the Continental schools of philosophy-the quarrel between the classical empiricism of Bacon, Locke, Berkeley, Hume, and Mill, and the classical rationalism or intellectualism of Descartes, Spinoza, and Leibniz. In this quarrel, the British school insisted that the ultimate source of all knowledge was observation, while the Continental school insisted that it was the intellectual intuition of clear and distinct ideas.
-Most of these issues are still very much alive. Not only has empiricism, still the ruling doctrine in England, conquered the United States, but it is now widely accepted even on the Euro- pean Continent as the true theory of scientific knowledge. Cartesian intellectualism, alas, has been only too often distorted into one or another of the various forms of modern irrationalism.
-I shall try to show in this lecture that the differences between classical empiricism and rationalism are much smaller than their similarities, and that both are mistaken. I hold that they are mistaken although I am myself both an empiricist and a ration- alist of sorts. But I believe that, though observation and reason have each an important role to play, these roles hardly resemble those which their classical defenders attributed to them. More especially, I shall try to show that neither observation nor reason can be described as a source of knowledge, in the sense in which they have been claimed to be sources of knowledge, down to the present day.
-II
-Our problem belongs to the theory of knowledge, or to epistemology, reputed to be the most abstract and remote and altogether irrelevant region of pure philosophy. Hume, for example, one of the greatest thinkers in the field, predicted that, because of the remoteness and abstractness and practical irrelevance of his results, none of his readers would believe in them for more than an hour.
-Kant's attitude was different. He thought that the problem 'What can I know?' was one of the three most important ques- tions a man could ask. Bertrand Russell, in spite of being closer to Hume in philosophic temperament, seems to side in this matter with Kant. And I believe that Russell is right when he
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-41
-attributes to epistemology practical consequences for science, for ethics, and even for politics. He points out, for example, that epistemological relativism, or the idea that there is no such thing as objective truth, and epistemological pragmatism, or the idea that truth is the same as usefulness, are closely linked with authoritarian and totalitarian ideas.
+The problem which I wish to examine afresh in this lecture, and which I hope not only to examine but to solve, may perhaps be described as an aspect of the old quarrel between the British and the Continental schools of philosophy—the quarrel between the classical empiricism of Bacon, Locke, Berkeley, Hume, and Mill, and the classical rationalism or intellectualism of Descartes, Spinoza, and Leibniz.
+In this quarrel, the British school insisted that the ultimate source of all knowledge was observation, while the Continental school insisted that it was the intellectual intuition of clear and distinct ideas.
+
+Most of these issues are still very much alive.
+Not only has empiricism, still the ruling doctrine in England, conquered the United States, but it is now widely accepted even on the European Continent as the true theory of _scientific_ knowledge.
+Cartesian intellectualism, alas, has been only too often distorted into one or another of the various forms of modern irrationalism.
+
+I shall try to show in this lecture that the differences between classical empiricism and rationalism are much smaller than their similarities, and that both are mistaken.
+I hold that they are mistaken although I am myself both an empiricist and a ration- alist of sorts.
+But I believe that, though observation and reason have each an important role to play, these roles hardly resemble those which their classical defenders attributed to them.
+More especially, I shall try to show that neither observation nor reason can be described as a source of knowledge, in the sense in which they have been claimed to be sources of knowledge, down to the present day.
+
+**II**
+
+Our problem belongs to the theory of knowledge, or to epistemology, reputed to be the most abstract and remote and altogether irrelevant region of pure philosophy.
+Hume, for example, one of the greatest thinkers in the field, predicted that, because of the remoteness and abstractness and practical irrelevance of his results, none of his readers would believe in them for more than an hour.
+
+Kant's attitude was different.
+He thought that the problem 'What can I know?' was one of the three most important questions a man could ask.
+Bertrand Russell, in spite of being closer to Hume in philosophic temperament, seems to side in this matter with Kant. And I believe that Russell is right when he attributes to epistemology practical consequences for science, for ethics, and even for politics.
+<!-- page 3 -->
+He points out, for example, that epistemological relativism, or the idea that there is no such thing as objective truth, and epistemological pragmatism, or the idea that truth is the same as usefulness, are closely linked with authoritarian and totalitarian ideas.
+
 Russell's views are of course disputed. Some recent philo- sophers have developed a doctrine of the essential impotence and practical irrelevance of all genuine philosophy, and thus, one can assume, of epistemology. Philosophy, they say, cannot by its very nature have any significant consequences, and so it can influence neither science nor politics. But I think that ideas are dangerous and powerful things, and that even philosophers have sometimes produced ideas. Indeed, I have no doubt that this new doctrine of the impotence of all philosophy is amply refuted by the facts.
 The situation is really very simple. The belief of a liberal- the belief in the possibility of a rule of law, of equal justice, of fundamental rights, and a free society-can easily survive the recognition that judges are not omniscient and may make mis- takes about facts, and that, in practice, absolute justice is hardly ever realized in any particular legal case. But his belief in the possibility of a rule of law, of justice, and of freedom, can hardly survive the acceptance of an epistemology which teaches that there are no objective facts; not merely in this particular case, but in any other case; and that the judge cannot have made a factual mistake because he can no more be wrong about the facts than he can be right.
 III
