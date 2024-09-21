@@ -1,11 +1,12 @@
 # On The Sources Of Knowledge And Ignorance
 
-Sourced from [The British Academy](https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/46/popper/), OCRed via [Google Docs](https://docs.google.com), edited by [Gio Lodi](https://giolodi.com).
+Sourced from [The British Academy](https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/46/popper/), OCRed via [Google Docs](https://docs.google.com), formatted by [Gio Lodi](https://giolodi.com).
 
 Any error is mine. Pull requests with fixes are appreaciated.
 
 ---
 
+<!-- page 1 -->
 **PHILOSOPHICAL LECTURE**
 
 # ON THE SOURCES OF KNOWLEDGE AND OF IGNORANCE
@@ -16,16 +17,26 @@ _Fellow of the Academy_
 
 _Read_ 20 January 1960
 
-> ... it is impossible for us to think of any thing, which we have not antecedently felt, either by our external or internal senses.
+> ... it is impossible for us to think of any thing, which we have not antecedently _felt_, either by our external or internal senses.
 > — DAVID HUME
 
-The title of my lecture is likely, I fear, to offend some critical
-ears. For although Sources of Knowledge' is in order, and
-'Sources of Error' would have been in order too, the phrase 'Sources of Ignorance' is another matter. 'Ignorance is something negative: it is the absence of knowledge. But how on earth can the absence of anything have sources?' This question was put to me by a friend when I confided to him the title I had chosen for the lecture. I was a little shaken by this for I had been, I confess, quite pleased with my title. Hard pressed for a reply I found myself improvising a rationalization, and explaining to my friend that the curious linguistic effect of my title was actually intended. I told him that I hoped to direct attention, through the phrasing of my title, to a number of historically important although unrecorded philosophical doctrines and among them, especially, to a conspiracy theory of ignorance which interprets ignorance not as a mere lack of knowledge but as the work of some mischievous power, the source of impure and evil influences which pervert and poison our minds and instil in us the habit of resistance to knowledge.
-I am not quite sure whether this explanation allayed my friend's misgivings, but it did silence him. Your case is different since you are silenced by the rules of the present transactions. So I can only hope that I have allayed your misgivings suffici- ently, for the time being, to allow me to begin my story at the other end-with the sources of knowledge rather than with the sources of ignorance. However, I shall presently come back to the sources of ignorance, and also to the conspiracy theory of these sources.
-40
-PROCEEDINGS OF THE BRITISH ACADEMY
-I
+The title of my lecture is likely, I fear, to offend some critical ears.
+For although 'Sources of Knowledge' is in order, and
+'Sources of Error' would have been in order too, the phrase 'Sources of Ignorance' is another matter.
+'Ignorance is something negative: it is the absence of knowledge. But how on earth can the absence of anything have sources?'
+This question was put to me by a friend when I confided to him the title I had chosen for the lecture.
+I was a little shaken by this for I had been, I confess, quite pleased with my title.
+Hard pressed for a reply I found myself improvising a rationalization, and explaining to my friend that the curious linguistic effect of my title was actually intended.
+I told him that I hoped to direct attention, through the phrasing of my title, to a number of historically important although unrecorded philosophical doctrines and among them, especially, to a conspiracy theory of ignorance which interprets ignorance not as a mere lack of knowledge but as the work of some mischievous power, the source of impure and evil influences which pervert and poison our minds and instil in us the habit of resistance to knowledge.
+
+I am not quite sure whether this explanation allayed my friend's misgivings, but it did silence him.
+Your case is different since you are silenced by the rules of the present transactions.
+So I can only hope that I have allayed your misgivings sufficiently, for the time being, to allow me to begin my story at the other end—with the sources of knowledge rather than with the sources of ignorance.
+However, I shall presently come back to the sources of ignorance, and also to the conspiracy theory of these sources.
+
+<!-- page 2 -->
+**I**
+
 The problem which I wish to examine afresh in this lecture, and which I hope not only to examine but to solve, may perhaps be described as an aspect of the old quarrel between the British and the Continental schools of philosophy-the quarrel between the classical empiricism of Bacon, Locke, Berkeley, Hume, and Mill, and the classical rationalism or intellectualism of Descartes, Spinoza, and Leibniz. In this quarrel, the British school insisted that the ultimate source of all knowledge was observation, while the Continental school insisted that it was the intellectual intuition of clear and distinct ideas.
 Most of these issues are still very much alive. Not only has empiricism, still the ruling doctrine in England, conquered the United States, but it is now widely accepted even on the Euro- pean Continent as the true theory of scientific knowledge. Cartesian intellectualism, alas, has been only too often distorted into one or another of the various forms of modern irrationalism.
 I shall try to show in this lecture that the differences between classical empiricism and rationalism are much smaller than their similarities, and that both are mistaken. I hold that they are mistaken although I am myself both an empiricist and a ration- alist of sorts. But I believe that, though observation and reason have each an important role to play, these roles hardly resemble those which their classical defenders attributed to them. More especially, I shall try to show that neither observation nor reason can be described as a source of knowledge, in the sense in which they have been claimed to be sources of knowledge, down to the present day.
