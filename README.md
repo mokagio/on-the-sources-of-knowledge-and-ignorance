@@ -60,13 +60,28 @@ Bertrand Russell, in spite of being closer to Hume in philosophic temperament, s
 <!-- page 3 -->
 He points out, for example, that epistemological relativism, or the idea that there is no such thing as objective truth, and epistemological pragmatism, or the idea that truth is the same as usefulness, are closely linked with authoritarian and totalitarian ideas.
 
-Russell's views are of course disputed. Some recent philo- sophers have developed a doctrine of the essential impotence and practical irrelevance of all genuine philosophy, and thus, one can assume, of epistemology. Philosophy, they say, cannot by its very nature have any significant consequences, and so it can influence neither science nor politics. But I think that ideas are dangerous and powerful things, and that even philosophers have sometimes produced ideas. Indeed, I have no doubt that this new doctrine of the impotence of all philosophy is amply refuted by the facts.
-The situation is really very simple. The belief of a liberal- the belief in the possibility of a rule of law, of equal justice, of fundamental rights, and a free society-can easily survive the recognition that judges are not omniscient and may make mis- takes about facts, and that, in practice, absolute justice is hardly ever realized in any particular legal case. But his belief in the possibility of a rule of law, of justice, and of freedom, can hardly survive the acceptance of an epistemology which teaches that there are no objective facts; not merely in this particular case, but in any other case; and that the judge cannot have made a factual mistake because he can no more be wrong about the facts than he can be right.
-III
-The great movement of liberation which started in the Re- naissance and led through the many vicissitudes of the reforma- tion and the religious and revolutionary wars to the free societies in which the English-speaking peoples are privileged to live, this movement was inspired throughout by an unparalleled epistemological optimism: by a most optimistic view of man's power to discern truth and to acquire knowledge.
-At the heart of this new optimistic view of the possibility of knowledge lies the doctrine that truth is manifest. Truth may perhaps be veiled, and removing the veil may not be easy. But once the naked truth stands revealed before our eyes, we have the power to see it, to distinguish it from falsehood, and to know that it is truth.
-42
-PROCEEDINGS OF THE BRITISH ACADEMY
+Russell's views are of course disputed.
+Some recent philosophers have developed a doctrine of the essential impotence and practical irrelevance of all genuine philosophy, and thus, one can assume, of epistemology.
+Philosophy, they say, cannot by its very nature have any significant consequences, and so it can influence neither science nor politics.
+But I think that ideas are dangerous and powerful things, and that even philosophers have sometimes produced ideas.
+Indeed, I have no doubt that this new doctrine of the impotence of all philosophy is amply refuted by the facts.
+
+The situation is really very simple.
+The belief of a liberal—the belief in the possibility of a rule of law, of equal justice, of fundamental rights, and a free society—can easily survive the recognition that judges are not omniscient and may make mistakes about facts, and that, in practice, absolute justice is hardly ever realized in any particular legal case.
+But his belief in the possibility of a rule of law, of justice, and of freedom, can hardly survive the acceptance of an epistemology which teaches that there are no objective facts;
+not merely in this particular case, but in any other case;
+and that the judge cannot have made a factual mistake because he can no more be wrong about the facts than he can be right.
+
+**III**
+
+The great movement of liberation which started in the Renaissance and led through the many vicissitudes of the reformation and the religious and revolutionary wars to the free societies in which the English-speaking peoples are privileged to live, this movement was inspired throughout by an unparalleled epistemological optimism:
+by a most optimistic view of man's power to discern truth and to acquire knowledge.
+
+At the heart of this new optimistic view of the possibility of knowledge lies the doctrine that _truth is manifest_.
+Truth may perhaps be veiled, and removing the veil may not be easy.
+But once the naked truth stands revealed before our eyes, we have the power to see it, to distinguish it from falsehood, and to know that it is truth.
+
+<!-- page 4 -->
 The birth of modern science and modern technology was inspired by this optimistic epistemology whose main spokesmen were Bacon and Descartes. They taught that there was no need for any man to appeal to authority in matters of truth because each man carried the sources of knowledge in himself; either in his power of sense-perception which he may use for the careful observation of nature, or in his power of intellectual intuition which he may use to distinguish truth from falsehood by refusing to accept any idea which is not clearly and distinctly perceived by the intellect.
 Man can know: thus he can be free. This is the formula which explains the link between epistemological optimism and the ideas of liberalism.
 This link is paralleled by the opposite link. Disbelief in the power of human reason, in man's power to discern the truth, is almost invariably linked with distrust of man. Thus epistemo- logical pessimism is linked, historically, with a doctrine of human depravity, and it tends to lead to the demand for the establishment of powerful traditions and the entrenchment of a powerful authority which would save man from his folly and his wickedness. (There is a striking sketch of this theory of authori- tarianism, and a picture of the burden carried by those in authority, in the story of The Grand Inquisitor in Dostoievsky's Brothers Karamasov.)
