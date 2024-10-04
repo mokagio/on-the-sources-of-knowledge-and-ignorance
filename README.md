@@ -307,22 +307,62 @@ Yet what interests us here is Plato's optimistic epistemology, the theory of _an
 It contains, I believe, not only the germs of Descartes' intellectualism, but also the germs of Aristotle's and especially of Bacon's theories of induction.
 
 <!-- page 12 -->
-For Meno's slave is helped by Socrates' judicious questions to remember or recapture the forgotten knowledge which his soul possessed in its ante-natal state of omniscience. It is, I believe, this famous Socratic method, called in the Theaetetus the art of midwifery or maieutic, to which Aristotle alluded when he said (Metaphysics 1078b17-33; cf. 9871) that Socrates was the in- ventor of the method of induction.
-Aristotle, and also Bacon, I wish to suggest, meant by 'induc- tion' not so much the inferring of universal laws from particular observed instances as a method by which we are guided to the point whence we can intuit or perceive the essence or the true nature of a thing. But this, as we have seen, is precisely the aim of Socrates' maieutic: its aim is to help or lead us to anamnesis; and anamnesis is the power of seeing the true nature or essence of a thing, the nature or essence with which we were acquainted before birth, before our fall from grace. Thus the aims of the two, maieutic and induction, are the same. (Incidentally, Aristotle taught that the result of an induction-the intuition of the essence-was to be expressed by a definition of that essence.)
-Now let us look more closely at the two procedures. The maieutic art of Socrates consists, essentially, in asking questions designed to destroy prejudices; false beliefs which are often traditional or fashionable beliefs; false answers, given in the spirit of ignorant cocksureness. Socrates himself does not pretend to know. His attitude is described by Aristotle in the words, 'Socrates raised questions but gave no answers; for he confessed that he did not know'. (Sophist. El., 183b7; cf. Theaetetus, 150 C-D, 157 C, 161 B). Thus Socrates' maieutic is not an art that aims at teaching any belief, but one that aims at purging or cleansing (cf. the allusion to the Amphidromia in Theaetetus 160 E) the soul of its false beliefs, its seeming knowledge, its prejudices. It achieves this by teaching us to doubt our own convictions.
+For Meno's slave is helped by Socrates' judicious questions to remember or recapture the forgotten knowledge which his soul possessed in its ante-natal state of omniscience.
+It is, I believe, this famous Socratic method, called in the _Theaetetus_ the art of midwifery or _maieutic_, to which Aristotle alluded when he said (_Metaphysics_ 1078<sup>b</sup>17-33; cf. 987<sup>b</sup>1) that Socrates was the inventor of the method of induction.
+
+Aristotle, and also Bacon, I wish to suggest, meant by 'induction' not so much the inferring of universal laws from particular observed instances as a method by which we are guided to the point whence we can intuit or perceive the essence or the true nature of a thing.
+But this, as we have seen, is precisely the aim of Socrates' _maieutic_: its aim is to help or lead us to _anamnesis_;
+and _anamnesis_ is the power of seeing the true nature or essence of a thing, the nature or essence with which we were acquainted before birth, before our fall from grace.
+Thus the aims of the two, _maieutic_ and induction, are the same.
+(Incidentally, Aristotle taught that the result of an induction—the intuition of the essence—was to be expressed by a definition of that essence.)
+
+Now let us look more closely at the two procedures.
+The _maieutic_ art of Socrates consists, essentially, in asking questions designed to destroy prejudices;
+false beliefs which are often traditional or fashionable beliefs;
+false answers, given in the spirit of ignorant cocksureness.
+Socrates himself does not pretend to know.
+His attitude is described by Aristotle in the words, 'Socrates raised questions but gave no answers; for he confessed that he did not know'.
+(_Sophist_. El., 183<sup>b</sup>7; cf. _Theaetetus_, 150 C-D, 157 C, 161 B).
+Thus Socrates' _maieutic_ is not an art that aims at teaching any belief, but one that aims at purging or cleansing (cf. the allusion to the _Amphidromia_ in _Theaetetus_ 160 E) the soul of its false beliefs, its seeming knowledge, its prejudices.
+It achieves this by teaching us to doubt our own convictions.
 Fundamentally the same procedure is part of Bacon's induction.
-IX
-The framework of Bacon's theory of induction is this. He distinguishes in the Novum Organum between a true method and a false method. His name for the true method, 'interpretatio naturae', is ordinarily translated by the phrase 'interpretation of nature', and his name for the false method, 'anticipatio mentis', by 'anti- cipation of the mind'. Obvious as these translations may seem,
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-51
-they are not adequate. What Bacon means by 'interpretatio naturae' is, I suggest, the reading of, or better still, the spelling out of the book of Nature. (Galileo, in a famous passage of his Il saggiatore, section 6, of which Mario Bunge has kindly reminded me, speaks of 'that great book which lies before our eyes-I mean the universe'; cf. Descartes' Discourse, section 1.)
-The term 'interpretation' has in modern English a decidedly subjectivistic or relativistic tinge. When we speak of Rudolf Serkin's interpretation of the Emperor Concerto, we imply that there are different interpretations, but that this one is Serkin's. We do not of course wish to imply that Serkin's is not the best, the truest, the nearest to Beethoven's intentions. But although we may be unable to imagine that there is a better one, by using the term 'interpretation' we imply that there are other inter- pretations or readings, leaving the question open whether some of these other readings may, or may not, be equally true.
-I have here used the word 'reading' as a synonym for 'inter- pretation', not only because the two meanings are so similar but also because 'reading' and 'to read' have suffered a modification analogous to that of 'interpretation' and 'to interpret'; except that in the case of 'reading' both meanings are still in full use. In the phrase 'I have read John's letter', we have the ordinary, non- subjectivist meaning. But 'I am reading this passage of John's letter differently' or perhaps 'My reading of this passage is very different' may illustrate a later, a subjectivistic or relativistic, meaning of the word 'reading'.
-I assert that the meaning of 'interpret' (though not in the sense of 'translate') has changed in exactly the same way, except that the original meaning-perhaps 'reading aloud for those who cannot read themselves'-has been practically lost. Today even the phrase 'the judge must interpret the law' means that he has a certain latitude in interpreting it; while in Bacon's time it would have meant that the judge had the duty to read the law as it stood, and to expound it and to apply it in the one and only right way. Interpretatio juris (or legis) means either this or, alternatively, the expounding of the law to the layman. It leaves the legal interpreter no latitude; at any rate no more than would be allowed to, say, a sworn interpreter translating a French legal document.
-Thus the translation 'the interpretation of nature' is mis- leading; it should be replaced by something like 'the (true) reading of nature'; analogous to 'the (true) reading of the law'. And I suggest that 'reading the book of Nature as it is' or better
-52
-PROCEEDINGS OF THE BRITISH ACADEMY
-still 'spelling out the book of Nature' is what Bacon meant. The point is that the phrase should suggest the avoidance of all interpretation in the modern sense, and that it should not contain, more especially, any suggestion of an attempt to interpret what' is manifest in nature in the light of non-manifest causes or of hypotheses; for all this would be an anticipatio mentis, in Bacon's sense. (It is a mistake, I think, to ascribe to Bacon the teaching that hypotheses or conjectures-may be the result of his method of induction; for Baconian induction results in knowledge rather than in conjecture.)
+
+**IX**
+
+<!-- page 13 -->
+The framework of Bacon's theory of induction is this.
+He distinguishes in the _Novum Organum_ between a true method and a false method.
+His name for the true method, '_interpretatio naturae_', is ordinarily translated by the phrase 'interpretation of nature', and his name for the false method, '_anticipatio mentis_', by 'anticipation of the mind'.
+Obvious as these translations may seem, they are not adequate.
+What Bacon means by '_interpretatio naturae_' is, I suggest, the reading of, or better still, the spelling out of the book of Nature.
+(Galileo, in a famous passage of his _Il saggiatore_, section 6, of which Mario Bunge has kindly reminded me, speaks of 'that great book which lies before our eyes—I mean the universe'; cf. Descartes' _Discourse_, section 1.)
+
+The term 'interpretation' has in modern English a decidedly subjectivistic or relativistic tinge.
+When we speak of Rudolf Serkin's interpretation of the Emperor Concerto, we imply that there are different interpretations, but that this one is Serkin's.
+We do not of course wish to imply that Serkin's is not the best, the truest, the nearest to Beethoven's intentions.
+But although we may be unable to imagine that there is a better one, by using the term 'interpretation' we imply that there are other interpretations or readings, leaving the question open whether some of these other readings may, or may not, be equally true.
+
+I have here used the word 'reading' as a synonym for 'interpretation', not only because the two meanings are so similar but also because 'reading' and 'to read' have suffered a modification analogous to that of 'interpretation' and 'to interpret';
+except that in the case of 'reading' both meanings are still in full use.
+In the phrase 'I have read John's letter', we have the ordinary, non-subjectivist meaning.
+But 'I am reading this passage of John's letter differently' or perhaps 'My reading of this passage is very different' may illustrate a later, a subjectivistic or relativistic, meaning of the word 'reading'.
+
+I assert that the meaning of 'interpret' (though not in the sense of 'translate') has changed in exactly the same way, except that the original meaning—perhaps 'reading aloud for those who cannot read themselves'—has been practically lost.
+Today even the phrase 'the judge must interpret the law' means that he has a certain latitude in interpreting it;
+while in Bacon's time it would have meant that the judge had the duty to read the law as it stood, and to expound it and to apply it in the one and only right way.
+_Interpretatio juris_ (or _legis_) means either this or, alternatively, the expounding of the law to the layman.
+It leaves the legal interpreter no latitude;
+at any rate no more than would be allowed to, say, a sworn interpreter translating a French legal document.
+
+<!-- page 14 -->
+Thus the translation 'the interpretation of nature' is misleading;
+it should be replaced by something like 'the (true) reading of nature';
+analogous to 'the (true) reading of the law'.
+And I suggest that 'reading the book of Nature as it is' or better still 'spelling out the book of Nature' is what Bacon meant.
+The point is that the phrase should suggest the avoidance of all interpretation in the modern sense, and that it should not contain, more especially, any suggestion of an attempt to interpret what' is manifest in nature in the light of non-manifest causes or of hypotheses;
+for all this would be an _anticipatio mentis_, in Bacon's sense.
+(It is a mistake, I think, to ascribe to Bacon the teaching that hypotheses or conjectures-may be the result of his method of induction; for Baconian induction results in knowledge rather than in conjecture.)
+
 As to the meaning of 'anticipatio mentis' we have only to quote Locke: 'men give themselves up to the first anticipations of their minds' (Conduct Underst., 26). This is, practically, a translation from Bacon; and it makes it amply clear that 'anticipatio' means 'prejudice' or even 'superstition'. This is also clear from the phrase 'anticipatio deorum' which means harbouring naïve or primitive or superstitious views about the gods. But to make matters still more obvious: 'prejudice', of course, also derives from a legal term, and according to the Oxford English Dictionary it was Bacon who introduced the verb 'to prejudge' into the English language, in the sense of 'to judge adversely in advance' -that is, in violation of the judge's duty.
 Thus the two methods are (1) 'the spelling out of the open book of Nature', leading to knowledge or episteme, and (2) 'the prejudice of the mind that wrongly prejudges, and perhaps mis- judges, Nature', leading to doxa, or mere guesswork, and to the misreading of the book of Nature. This latter method, rejected by Bacon, is in fact a method of interpretation, in the modern sense of the word. It is the method of conjecture or hypothesis (a method of which, incidentally, I happen to be a confirmed advocate).
 How can we prepare ourselves to read the book of Nature properly or truly? Bacon's answer is: by purging our minds of all anticipations or conjectures or guesses or prejudices. There are various things to be done in order so to purge our minds. We have to get rid of all sorts of idols, or generally held false beliefs; for these distort our observations. But we have also, like Socrates, to look out for all sorts of counter-instances by which to destroy our prejudices concerning the kind of thing whose true essence or nature we wish to ascertain. Like Socrates, we must purify our intellects before facing essence or nature (cf. St. Augustine, Civ. Dei. VIII. 3); and our impure prejudices must be exorcised by the invocation of counter-instances.
