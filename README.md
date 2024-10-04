@@ -163,12 +163,36 @@ One can see that an attitude of tolerance which is based upon an optimistic fait
 1959.) For it is liable to turn into a conspiracy theory which would be hard to reconcile with an attitude of tolerance.
 
 <!-- page 7 -->
-I do not assert that there was never a grain of truth in this conspiracy theory. But in the main it was a myth, just as the theory of manifest truth from which it grew was a myth.
-For the simple truth is that truth is often hard to come by, and that once found it may easily be lost again. Erroneous beliefs may have an astonishing power to survive, for thousands of years, in defiance of experience, and without the aid of any conspiracy. The history of science, and especially of medicine, could furnish us with a number of good examples. One example is, indeed, the general conspiracy theory itself. I mean the erroneous view that whenever something evil happens it must be due to the evil will of an evil power. Various forms of this view have survived down to our own day.
-Thus the optimistic epistemology of Bacon and of Descartes cannot be true. Yet perhaps the strangest thing in this story is that this false epistemology was the major inspiration of an intellectual and moral revolution without parallel in history. It encouraged men to think for themselves. It gave them hope that through knowledge they might free themselves and others from servitude and misery. It made modern science possible. It be- came the basis of the fight against censorship and the suppression of free thought. It became the basis of the nonconformist con- science, of individualism, and of a new sense of man's dignity; of a demand for universal education, and of a new dream of a free society. It made men feel responsible for themselves and for others, and eager to improve not only their own condition but also that of their fellow men. It is a case of a bad idea inspiring many good ones.
-VI
-This false epistemology, however, has also led to disastrous consequences. The theory that truth is manifest-that it is there for everyone to see, if only he wants to see it-this theory is the basis of almost every kind of fanaticism. For only the most depraved wickedness can refuse to see the manifest truth; only those who have every reason to fear truth can deny it, and conspire to suppress it.
-Yet the theory that truth is manifest not only breeds fanatics-- men possessed by the conviction that all those who do not see the manifest truth must be possessed by the devil-but it may also lead, though perhaps less directly than does a pessimistic
+I do not assert that there was never a grain of truth in this conspiracy theory.
+But in the main it was a myth, just as the theory of manifest truth from which it grew was a myth.
+
+For the simple truth is that truth is often hard to come by, and that once found it may easily be lost again.
+Erroneous beliefs may have an astonishing power to survive, for thousands of years, in defiance of experience, and without the aid of any conspiracy.
+The history of science, and especially of medicine, could furnish us with a number of good examples.
+One example is, indeed, the general conspiracy theory itself.
+I mean the erroneous view that whenever something evil happens it must be due to the evil will of an evil power.
+Various forms of this view have survived down to our own day.
+
+Thus the optimistic epistemology of Bacon and of Descartes cannot be true.
+Yet perhaps the strangest thing in this story is that this false epistemology was the major inspiration of an intellectual and moral revolution without parallel in history.
+It encouraged men to think for themselves.
+It gave them hope that through knowledge they might free themselves and others from servitude and misery.
+It made modern science possible.
+It became the basis of the fight against censorship and the suppression of free thought.
+It became the basis of the nonconformist conscience, of individualism, and of a new sense of man's dignity;
+of a demand for universal education, and of a new dream of a free society.
+It made men feel responsible for themselves and for others, and eager to improve not only their own condition but also that of their fellow men.
+It is a case of a bad idea inspiring many good ones.
+
+**VI**
+
+This false epistemology, however, has also led to disastrous consequences.
+The theory that truth is manifest—that it is there for everyone to see, if only he wants to see it—this theory is the basis of almost every kind of fanaticism.
+For only the most depraved wickedness can refuse to see the manifest truth;
+only those who have every reason to fear truth can deny it, and conspire to suppress it.
+
+<!-- page 8 -->
+Yet the theory that truth is manifest not only breeds fanatics—men possessed by the conviction that all those who do not see the manifest truth must be possessed by the devil—but it may also lead, though perhaps less directly than does a pessimistic
 46
 PROCEEDINGS OF THE BRITISH ACADEMY
 epistemology, to authoritarianism. This is so, simply, because truth is not manifest, as a rule. The allegedly manifest truth is therefore in constant need, not only of interpretation and affirmation, but also of re-interpretation and re-affirmation. An authority is required to pronounce upon, and lay down, almost from day to day, what is to be the manifest truth, and it may learn to do so arbitrarily and cynically. So many disappointed epistemologists will turn away from their own former optimism and erect a resplendent authoritarian theory on the basis of a pessimistic epistemology. It seems to me that the greatest episte- mologist of all, Plato, exemplifies this tragic development.
