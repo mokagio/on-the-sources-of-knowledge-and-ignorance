@@ -82,17 +82,40 @@ Truth may perhaps be veiled, and removing the veil may not be easy.
 But once the naked truth stands revealed before our eyes, we have the power to see it, to distinguish it from falsehood, and to know that it is truth.
 
 <!-- page 4 -->
-The birth of modern science and modern technology was inspired by this optimistic epistemology whose main spokesmen were Bacon and Descartes. They taught that there was no need for any man to appeal to authority in matters of truth because each man carried the sources of knowledge in himself; either in his power of sense-perception which he may use for the careful observation of nature, or in his power of intellectual intuition which he may use to distinguish truth from falsehood by refusing to accept any idea which is not clearly and distinctly perceived by the intellect.
-Man can know: thus he can be free. This is the formula which explains the link between epistemological optimism and the ideas of liberalism.
-This link is paralleled by the opposite link. Disbelief in the power of human reason, in man's power to discern the truth, is almost invariably linked with distrust of man. Thus epistemo- logical pessimism is linked, historically, with a doctrine of human depravity, and it tends to lead to the demand for the establishment of powerful traditions and the entrenchment of a powerful authority which would save man from his folly and his wickedness. (There is a striking sketch of this theory of authori- tarianism, and a picture of the burden carried by those in authority, in the story of The Grand Inquisitor in Dostoievsky's Brothers Karamasov.)
-The contrast between epistemological pessimism and optim- ism may be said to be fundamentally the same as that between epistemological traditionalism and rationalism, using this latter term in the wider sense in which it is opposed to irrationalism, and in which it thus covers not only Cartesian intellectualism but empiricism also. For we can interpret traditionalism as the belief that, in the absence of an objective and discernible truth, we are faced with the choice between accepting the authority of tradition, and chaos; while rationalism has, of course, always claimed the right of reason and of empirical science to criticize, and to reject, any tradition, and any authority, as being based on sheer unreason or prejudice or accident.
-IV
-It is a disturbing fact that even an abstract study like pure epistemology is not as pure as one might think (and as Aristotle believed) but that its ideas may, to a large extent, be motivated and unconsciously inspired by political hopes and by Utopian
-43
-THE SOURCES OF KNOWLEDGE AND IGNORANCE dreams. This should be a warning to the epistemologist. What can he do about it? As an epistemologist I have only one interest -to find out the truth about the problems of epistemology, whether or not this truth fits in with my political ideas. But am I not liable to be influenced, unconsciously, by my political hopes and beliefs?
-It so happens that I am not only an empiricist and a rationalist of sorts but also a liberal; but just because I am a liberal, I feel that few things are more important for a liberal than to submit the various theories of liberalism to the most searching and critical examination.
-While I was engaged in a critical examination of this kind I discovered the part played by certain epistemological theories in the development of liberal ideas; and especially by the various forms of epistemological optimism. And I found that, as an epistemologist, I had to reject these epistemological theories as untenable. This experience of mine may illustrate the point that our dreams and our hopes need not necessarily control our results, and that, in searching for the truth, it may be our best plan to start by criticizing our most cherished beliefs. This may seem to some a perverse plan. But it will not seem so to those who want to find the truth and are not afraid of it.
-V
+The birth of modern science and modern technology was inspired by this optimistic epistemology whose main spokesmen were Bacon and Descartes.
+They taught that there was no need for any man to appeal to authority in matters of truth because each man carried the sources of knowledge in himself;
+either in his power of sense-perception which he may use for the careful observation of nature, or in his power of intellectual intuition which he may use to distinguish truth from falsehood by refusing to accept any idea which is not clearly and distinctly perceived by the intellect.
+
+_Man can know: thus he can be free._
+This is the formula which explains the link between epistemological optimism and the ideas of liberalism.
+
+This link is paralleled by the opposite link.
+Disbelief in the power of human reason, in man's power to discern the truth, is almost invariably linked with distrust of man.
+Thus epistemological pessimism is linked, historically, with a doctrine of human depravity, and it tends to lead to the demand for the establishment of powerful traditions and the entrenchment of a powerful authority which would save man from his folly and his wickedness.
+(There is a striking sketch of this theory of authoritarianism, and a picture of the burden carried by those in authority, in the story of _The Grand Inquisitor_ in Dostoievsky's _Brothers Karamasov_.)
+
+The contrast between epistemological pessimism and optimism may be said to be fundamentally the same as that between epistemological traditionalism and rationalism, using this latter term in the wider sense in which it is opposed to irrationalism, and in which it thus covers not only Cartesian intellectualism but empiricism also.
+For we can interpret traditionalism as the belief that, in the absence of an objective and discernible truth, we are faced with the choice between accepting the authority of tradition, and chaos; while rationalism has, of course, always claimed the right of reason and of empirical science to criticize, and to reject, any tradition, and any authority, as being based on sheer unreason or prejudice or accident.
+
+**IV**
+
+<!-- page 5 -->
+It is a disturbing fact that even an abstract study like pure epistemology is not as pure as one might think (and as Aristotle believed) but that its ideas may, to a large extent, be motivated and unconsciously inspired by political hopes and by Utopian dreams.
+This should be a warning to the epistemologist.
+What can he do about it?
+As an epistemologist I have only one interest -to find out the truth about the problems of epistemology, whether or not this truth fits in with my political ideas.
+But am I not liable to be influenced, unconsciously, by my political hopes and beliefs?
+
+It so happens that I am not only an empiricist and a rationalist of sorts but also a liberal;
+but just because I am a liberal, I feel that few things are more important for a liberal than to submit the various theories of liberalism to the most searching and critical examination.
+
+While I was engaged in a critical examination of this kind I discovered the part played by certain epistemological theories in the development of liberal ideas;
+and especially by the various forms of epistemological optimism.
+And I found that, as an epistemologist, I had to reject these epistemological theories as untenable.
+This experience of mine may illustrate the point that our dreams and our hopes need not necessarily control our results, and that, in searching for the truth, it may be our best plan to start by criticizing our most cherished beliefs. This may seem to some a perverse plan. But it will not seem so to those who want to find the truth and are not afraid of it.
+
+**V**
+
 In examining the optimistic epistemology inherent in certain ideas of liberalism, I found a cluster of doctrines which, although often accepted implicitly, have not, to my knowledge, been explicitly discussed or even noticed by philosophers or historians. The most fundamental of them is one which I have already mentioned the doctrine that truth is manifest. The strangest of them is the conspiracy theory of ignorance, which is a curious outgrowth from the doctrine of manifest truth.
 By the doctrine that truth is manifest I mean, you will recall, the optimistic view that truth, if put before us naked, is always recognizable as truth. Thus truth has only to be unveiled, or dis-covered. Once this is done, there is no need for further argu- ment. We have been given eyes to see the truth, and the light of reason to see it by.
 This doctrine is at the heart of the teaching of both Descartes and Bacon. Descartes based his optimistic epistemology on the important theory of the veracitas dei. What we clearly and dis- tinctly see to be true must indeed be true; for otherwise God
