@@ -132,13 +132,37 @@ for otherwise God would be deceiving us.
 Thus the truthfulness of God must make truth manifest.
 
 <!-- page 6 -->
-In Bacon we have a similar doctrine. It might be described as the doctrine of the veracitas naturae, the truthfulness of Nature. Nature is an open book. He who reads it with a pure mind cannot misread it. Only if his mind is poisoned by prejudice can he fall into error.
-This last remark shows that the doctrine that truth is manifest creates the need to explain falsehood. Knowledge, the possession of truth, need not be explained. But how can we ever fall into error if truth is manifest? The answer is: through our own sinful refusal to see the manifest truth; or because our minds harbour prejudices inculcated by education and tradition, or other evil influences which have perverted our originally pure and innocent minds. Ignorance may be the work of powers conspiring to keep us in ignorance, to poison our minds by filling them with false- hood, and to blind our eyes so that they cannot see the manifest truth. Such prejudices and such powers, then, are sources of ignorance.
-The conspiracy theory of ignorance is fairly well known in its Marxian form as the conspiracy of a capitalist press that perverts and suppresses truth and fills the workers' minds with false ideologies. Prominent among these, of course, are the doctrines of religion. It is surprising to find how unoriginal this Marxist theory is. The wicked and fraudulent priest who keeps the people in ignorance was a stock figure of the eighteenth century and, I am afraid, one of the inspirations of liberalism. It can be traced back to the protestant belief in the conspiracy of the Roman Church, and also to the beliefs of those dissenters who held similar views about the Established Church. (Elsewhere I have traced the pre-history of this belief back to Plato's uncle Critias; see chapter 8, ii, of my Open Society.)
-This curious belief in a conspiracy is the almost inevitable consequence of the optimistic belief that truth, and therefore goodness, must prevail if only truth is given a fair chance. 'Let her and falsehood grapple; who ever knew Truth put to the worse, in a free and open encounter?" (Areopagitica). So when Milton's Truth was put to the worse, the necessary inference was that the encounter had not been free and open: if the manifest truth does not prevail, it must have been maliciously suppressed. One can see that an attitude of tolerance which is based upon an optimistic faith in the victory of truth may easily be shaken. (See J. W. N. Watkins on Milton in The Listener, 22 January
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-45
+In Bacon we have a similar doctrine.
+It might be described as the doctrine of the _veracitas naturae_, the truthfulness of Nature.
+Nature is an open book.
+He who reads it with a pure mind cannot misread it.
+Only if his mind is poisoned by prejudice can he fall into error.
+
+This last remark shows that the doctrine that truth is manifest creates the need to explain falsehood.
+Knowledge, the possession of truth, need not be explained.
+But how can we ever fall into error if truth is manifest?
+The answer is:
+through our own sinful refusal to see the manifest truth;
+or because our minds harbour prejudices inculcated by education and tradition, or other evil influences which have perverted our originally pure and innocent minds.
+Ignorance may be the work of powers conspiring to keep us in ignorance, to poison our minds by filling them with falsehood, and to blind our eyes so that they cannot see the manifest truth.
+Such prejudices and such powers, then, are sources of ignorance.
+
+The conspiracy theory of ignorance is fairly well known in its Marxian form as the conspiracy of a capitalist press that perverts and suppresses truth and fills the workers' minds with false ideologies.
+Prominent among these, of course, are the doctrines of religion.
+It is surprising to find how unoriginal this Marxist theory is.
+The wicked and fraudulent priest who keeps the people in ignorance was a stock figure of the eighteenth century and, I am afraid, one of the inspirations of liberalism.
+It can be traced back to the protestant belief in the conspiracy of the Roman Church, and also to the beliefs of those dissenters who held similar views about the Established Church.
+(Elsewhere I have traced the pre-history of this belief back to Plato's uncle Critias; see chapter 8, ii, of my _Open Society_.)
+
+This curious belief in a conspiracy is the almost inevitable consequence of the optimistic belief that truth, and therefore goodness, must prevail if only truth is given a fair chance.
+"Let her and falsehood grapple; who ever knew Truth put to the worse, in a free and open encounter?"
+(_Areopagitica_).
+So when Milton's Truth was put to the worse, the necessary inference was that the encounter had not been free and open:
+if the manifest truth does not prevail, it must have been maliciously suppressed.
+One can see that an attitude of tolerance which is based upon an optimistic faith in the victory of truth may easily be shaken. (See J. W. N. Watkins on Milton in _The Listener_, 22 January
 1959.) For it is liable to turn into a conspiracy theory which would be hard to reconcile with an attitude of tolerance.
+
+<!-- page 7 -->
 I do not assert that there was never a grain of truth in this conspiracy theory. But in the main it was a myth, just as the theory of manifest truth from which it grew was a myth.
 For the simple truth is that truth is often hard to come by, and that once found it may easily be lost again. Erroneous beliefs may have an astonishing power to survive, for thousands of years, in defiance of experience, and without the aid of any conspiracy. The history of science, and especially of medicine, could furnish us with a number of good examples. One example is, indeed, the general conspiracy theory itself. I mean the erroneous view that whenever something evil happens it must be due to the evil will of an evil power. Various forms of this view have survived down to our own day.
 Thus the optimistic epistemology of Bacon and of Descartes cannot be true. Yet perhaps the strangest thing in this story is that this false epistemology was the major inspiration of an intellectual and moral revolution without parallel in history. It encouraged men to think for themselves. It gave them hope that through knowledge they might free themselves and others from servitude and misery. It made modern science possible. It be- came the basis of the fight against censorship and the suppression of free thought. It became the basis of the nonconformist con- science, of individualism, and of a new sense of man's dignity; of a demand for universal education, and of a new dream of a free society. It made men feel responsible for themselves and for others, and eager to improve not only their own condition but also that of their fellow men. It is a case of a bad idea inspiring many good ones.
