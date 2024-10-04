@@ -255,28 +255,58 @@ and it is thus the origin and cause of his ignorance.
 (Here may be the seed of the idea that ignorance is sin.)
 
 <!-- page 10 -->
-It is clear that there is a close link between this theory of anamnesis and the doctrine of the divine origin or source of our knowledge. At the same time, there is also a close link between the theory of anamnesis and the doctrine of manifest truth: if, even in our depraved state of forgetfulness, we see the truth, we cannot but recognize it as the truth. So, as the result of anamnesis, truth is restored to the status of that which is not forgotten and not concealed (alethes): it is that which is manifest.
-Socrates demonstrates this in a beautiful passage of the Meno by helping an uneducated young slave to 'recall' the proof of a special case of the theorem of Pythagoras. Here indeed is an optimistic epistemology, and the root of Cartesianism. It seems that, in the Meno, Plato was conscious of the highly optimistic character of his theory, for he describes it as a doctrine which makes men eager to learn, to search, and to discover.
-Yet disappointment must have come to Plato; for in the Republic (and also in the Phaedrus) we find the beginnings of a pessimistic epistemology. In the famous story of the prisoners in the cave (514 ff.) he shows that the world of our experience is only a shadow, a reflection, of the real world. And he shows that even if one of the prisoners should escape from the cave and face the real world, he would have almost insuperable difficulties in seeing and understanding it-to say nothing of his difficulties in trying to make those understand who stayed behind. The difficulties in the way of an understanding of the real world are almost super-human, and only the very few, if anybody at all, can attain to the divine state of understanding the real world- the divine state of true knowledge, of episteme.
-This is a pessimistic theory with regard to almost all men, though not with regard to all. For it teaches that truth may be attained by a few-the elect. With regard to these it is, one might say, more wildly optimistic than even the doctrine that truth is manifest. The authoritarian and traditionalist conse- quences of this pessimistic theory are fully elaborated in the Laws.
-Thus we find in Plato the first development from an optimistic to a pessimistic epistemology. Each of them forms the basis of one of the two diametrically opposed philosophies of the state and of society: on the one hand an anti-traditionalist, anti- authoritarian, revolutionary and Utopian rationalism of the Cartesian kind, and on the other hand an authoritarian tradi- tionalism.
-This development is likely to be connected with the fact that
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-49
-the idea of an epistemological fall of man can be interpreted not only in the sense of the optimistic doctrine of anamnesis, but also in a pessimistic sense.
-In this latter interpretation, the fall of man condemns all mortals-or almost all-to ignorance. I think one can discern in the story of the cave (and perhaps also in the story of the fall of the city, when the Muses and their divine teaching are neg- lected; see Republic 546D) an echo of an interesting older form of this idea. I have in mind Parmenides' doctrine that the opinions of mortals are delusions, and the result of a misguided choice-a misguided convention. (This may stem from Xeno- phanes' doctrine that all human knowledge is guesswork, and that his own theories are, at best, merely similar to the truth.) The idea of an epistemological fall of man can perhaps be found in those words of the goddess that mark the transition from the way of truth to the way of delusive opinion, as Karl Reinhardt sug- gested. (See his Parmenides, 2nd edition, p. 26; see also pp. 5 ff. for the text of DK, B, I: 31-32, as here quoted. With B, 8: 60, cf. Xenophanes, B, 35; the fourth line here quoted is 8: 61.)
-But you also shall learn how it was that delusive opinion, Permeating through all, was destined to win approbation.... Now of this world thus arranged to seem wholly like truth I
-shall tell you,
-Then you will be nevermore overawed by the notions
+It is clear that there is a close link between this theory of _anamnesis_ and the doctrine of the divine origin or source of our knowledge.
+At the same time, there is also a close link between the theory of _anamnesis_ and the doctrine of manifest truth:
+if, even in our depraved state of forgetfulness, we see the truth, we cannot but recognize it as the truth.
+So, as the result of _anamnesis_, truth is restored to the status of that which is not forgotten and not concealed (_alēthēs_):
+it is that which is manifest.
+
+Socrates demonstrates this in a beautiful passage of the _Meno_ by helping an uneducated young slave to 'recall' the proof of a special case of the theorem of Pythagoras.
+Here indeed is an optimistic epistemology, and the root of Cartesianism.
+It seems that, in the _Meno_, Plato was conscious of the highly optimistic character of his theory, for he describes it as a doctrine which makes men eager to learn, to search, and to discover.
+
+Yet disappointment must have come to Plato;
+for in the _Republic_ (and also in the _Phaedrus_) we find the beginnings of a pessimistic epistemology.
+In the famous story of the prisoners in the cave (514 ff.) he shows that the world of our experience is only a shadow, a reflection, of the real world.
+And he shows that even if one of the prisoners should escape from the cave and face the real world, he would have almost insuperable difficulties in seeing and understanding it—to say nothing of his difficulties in trying to make those understand who stayed behind.
+The difficulties in the way of an understanding of the real world are almost super-human, and only the very few, if anybody at all, can attain to the divine state of understanding the real world—the divine state of true knowledge, of _epistēmē_.
+
+This is a pessimistic theory with regard to almost all men, though not with regard to all.
+For it teaches that truth may be attained by a few—the elect.
+With regard to these it is, one might say, more wildly optimistic than even the doctrine that truth is manifest.
+The authoritarian and traditionalist consequences of this pessimistic theory are fully elaborated in the _Laws_.
+
+Thus we find in Plato the first development from an optimistic to a pessimistic epistemology.
+Each of them forms the basis of one of the two diametrically opposed philosophies of the state and of society:
+on the one hand an anti-traditionalist, anti- authoritarian, revolutionary and Utopian rationalism of the Cartesian kind, and on the other hand an authoritarian traditionalism.
+
+<!-- page 11 -->
+This development is likely to be connected with the fact that the idea of an epistemological fall of man can be interpreted not only in the sense of the optimistic doctrine of _anamnesis_, but also in a pessimistic sense.
+
+In this latter interpretation, the fall of man condemns all mortals—or almost all—to ignorance.
+I think one can discern in the story of the cave (and perhaps also in the story of the fall of the city, when the Muses and their divine teaching are neglected; see _Republic_ 546D) an echo of an interesting older form of this idea.
+I have in mind Parmenides' doctrine that the opinions of mortals are delusions, and the result of a misguided choice—a misguided convention.
+(This may stem from Xenophanes' doctrine that all human knowledge is guesswork, and that his own theories are, at best, merely _similar to the truth_.)
+The idea of an epistemological fall of man can perhaps be found in those words of the goddess that mark the transition from the way of truth to the way of delusive opinion, as Karl Reinhardt suggested.
+(See his _Parmenides_, 2nd edition, p. 26; see also pp. 5 ff. for the text of DK, B, I: 31-32, as here quoted. With B, 8: 60, cf. Xenophanes, B, 35; the fourth line here quoted is 8: 61.)
+
+> But you also shall learn how it was that delusive opinion,
+> Permeating through all, was destined to win approbation....
+> Now of this world thus arranged to seem wholly like truth I shall tell you,
+> Then you will be nevermore overawed by the notions
 of mortals.
-Thus though the fall affects all men, the truth may be revealed to the elect by an act of grace-even the truth about the unreal world of the delusions and opinions, the conventional notions and decisions, of mortals.
-The revelation received by Parmenides, and his conviction that a few may reach certainty about both, the unchanging world of eternal reality and the unreal and changing world of verisimilitude and deception, were some of the main inspirations of Plato's philosophy. It was a theme to which he was for ever returning, occillating between hope, despair, and resignation.
-VIII
-Yet what interests us here is Plato's optimistic epistemology, the theory of anamnesis in the Meno. It contains, I believe, not only the germs of Descartes' intellectualism, but also the germs of Aristotle's and especially of Bacon's theories of induction.
-B 9105
-E
-50
-PROCEEDINGS OF THE BRITISH ACADEMY
+
+Thus though the fall affects all men, the truth may be revealed to the elect by an act of grace—even the truth about the unreal world of the delusions and opinions, the conventional notions and decisions, of mortals.
+
+The revelation received by Parmenides, and his conviction that a few may reach certainty about both, the unchanging world of eternal reality and the unreal and changing world of verisimilitude and deception, were some of the main inspirations of Plato's philosophy.
+It was a theme to which he was for ever returning, occillating [sic – oscillating?] between hope, despair, and resignation.
+
+**VIII**
+
+Yet what interests us here is Plato's optimistic epistemology, the theory of _anamnesis_ in the _Meno_.
+It contains, I believe, not only the germs of Descartes' intellectualism, but also the germs of Aristotle's and especially of Bacon's theories of induction.
+
+<!-- page 12 -->
 For Meno's slave is helped by Socrates' judicious questions to remember or recapture the forgotten knowledge which his soul possessed in its ante-natal state of omniscience. It is, I believe, this famous Socratic method, called in the Theaetetus the art of midwifery or maieutic, to which Aristotle alluded when he said (Metaphysics 1078b17-33; cf. 9871) that Socrates was the in- ventor of the method of induction.
 Aristotle, and also Bacon, I wish to suggest, meant by 'induc- tion' not so much the inferring of universal laws from particular observed instances as a method by which we are guided to the point whence we can intuit or perceive the essence or the true nature of a thing. But this, as we have seen, is precisely the aim of Socrates' maieutic: its aim is to help or lead us to anamnesis; and anamnesis is the power of seeing the true nature or essence of a thing, the nature or essence with which we were acquainted before birth, before our fall from grace. Thus the aims of the two, maieutic and induction, are the same. (Incidentally, Aristotle taught that the result of an induction-the intuition of the essence-was to be expressed by a definition of that essence.)
 Now let us look more closely at the two procedures. The maieutic art of Socrates consists, essentially, in asking questions designed to destroy prejudices; false beliefs which are often traditional or fashionable beliefs; false answers, given in the spirit of ignorant cocksureness. Socrates himself does not pretend to know. His attitude is described by Aristotle in the words, 'Socrates raised questions but gave no answers; for he confessed that he did not know'. (Sophist. El., 183b7; cf. Theaetetus, 150 C-D, 157 C, 161 B). Thus Socrates' maieutic is not an art that aims at teaching any belief, but one that aims at purging or cleansing (cf. the allusion to the Amphidromia in Theaetetus 160 E) the soul of its false beliefs, its seeming knowledge, its prejudices. It achieves this by teaching us to doubt our own convictions.
