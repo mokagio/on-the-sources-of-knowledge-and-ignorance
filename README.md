@@ -155,7 +155,7 @@ It can be traced back to the protestant belief in the conspiracy of the Roman Ch
 (Elsewhere I have traced the pre-history of this belief back to Plato's uncle Critias; see chapter 8, ii, of my _Open Society_.)
 
 This curious belief in a conspiracy is the almost inevitable consequence of the optimistic belief that truth, and therefore goodness, must prevail if only truth is given a fair chance.
-"Let her and falsehood grapple; who ever knew Truth put to the worse, in a free and open encounter?"
+'Let her and falsehood grapple; who ever knew Truth put to the worse, in a free and open encounter?'
 (_Areopagitica_).
 So when Milton's Truth was put to the worse, the necessary inference was that the encounter had not been free and open:
 if the manifest truth does not prevail, it must have been maliciously suppressed.
@@ -192,20 +192,41 @@ For only the most depraved wickedness can refuse to see the manifest truth;
 only those who have every reason to fear truth can deny it, and conspire to suppress it.
 
 <!-- page 8 -->
-Yet the theory that truth is manifest not only breeds fanatics—men possessed by the conviction that all those who do not see the manifest truth must be possessed by the devil—but it may also lead, though perhaps less directly than does a pessimistic
-46
-PROCEEDINGS OF THE BRITISH ACADEMY
-epistemology, to authoritarianism. This is so, simply, because truth is not manifest, as a rule. The allegedly manifest truth is therefore in constant need, not only of interpretation and affirmation, but also of re-interpretation and re-affirmation. An authority is required to pronounce upon, and lay down, almost from day to day, what is to be the manifest truth, and it may learn to do so arbitrarily and cynically. So many disappointed epistemologists will turn away from their own former optimism and erect a resplendent authoritarian theory on the basis of a pessimistic epistemology. It seems to me that the greatest episte- mologist of all, Plato, exemplifies this tragic development.
-VII
-Plato plays a decisive part in the pre-history of Descartes' doctrine of the veracitas dei-the doctrine that our intellectual intuition does not deceive us because God is truthful and will not deceive us; or in other words, the doctrine that our intellect is a source of knowledge because God is a source of knowledge. This doctrine has a long history which can easily be traced back at least to Homer and Hesiod.
-To us, the habit of referring to one's sources would seem natural in a scholar or an historian, and it is perhaps a little surprising to find that this habit stems from the poets; but it does. The Greek poets refer to the sources of their knowledge. The sources are divine. They are the Muses. . . . the Greek bards' Gilbert Murray observes (The Rise of the Greek Epic, 3rd edition, 1924, p. 96) 'always owe, not only what we should call their inspiration, but their actual knowledge of facts to the Muses. The Muses "are present and know all things"... Hesiod
-always explains that he is dependent on the Muses for his knowledge. Other sources of knowledge are indeed recognized. ... But most often he consults the Muses. . . . So does Homer for such subjects as the Catalogue of the Greek army.'
-As this quotation shows, the poets were in the habit of claim- ing not only divine sources of inspiration, but also divine sources of knowledge-divine guarantors of the truth of their stories.
-Precisely the same two claims were raised by the philosophers Heraclitus and Parmenides. Heraclitus, it seems, sees himself as a prophet who 'talks with raving mouth, possessed by the god' by Zeus, the source of all wisdom (DK, B, 92, 32; cf. 93, 41, 64, 50). And Parmenides, one could almost say, forms the missing link between Homer or Hesiod on the one side and
-DK= Diels-Kranz, Fragmente der Vorsokratiker.
-I
-47
-THE SOURCES OF KNOWLEDGE AND IGNORANCE Descartes on the other. His guiding star and inspiration is the goddess Dike, described by Heraclitus (DK, B, 28) as the guardian of truth. Parmenides describes her as the guardian and keeper of the keys of truth, and as the source of all his knowledge. But Parmenides and Descartes have more in common than the doc- trine of divine veracity. For example, Parmenides is told by his divine guarantor of truth that in order to distinguish be- tween truth and falsehood, he must rely upon the intellect alone, to the exclusion of the senses of sight, hearing, and taste. (Cf. Heraclitus, B, 54, 123; 88 and 126 point to unobservable changes yielding observable opposites.) And even the principle of his physical theory which, like Descartes, he founds upon his intellectualist theory of knowledge, is the same as that adopted by Descartes: it is the impossibility of a void, the necessary fullness of the world.
+Yet the theory that truth is manifest not only breeds fanatics—men possessed by the conviction that all those who do not see the manifest truth must be possessed by the devil—but it may also lead, though perhaps less directly than does a pessimistic epistemology, to authoritarianism.
+This is so, simply, because truth is not manifest, as a rule.
+The allegedly manifest truth is therefore in constant need, not only of interpretation and affirmation, but also of re-interpretation and re-affirmation.
+An authority is required to pronounce upon, and lay down, almost from day to day, what is to be the manifest truth, and it may learn to do so arbitrarily and cynically.
+So many disappointed epistemologists will turn away from their own former optimism and erect a resplendent authoritarian theory on the basis of a pessimistic epistemology.
+It seems to me that the greatest epistemologist of all, Plato, exemplifies this tragic development.
+
+
+**VII**
+
+Plato plays a decisive part in the pre-history of Descartes' doctrine of the _veracitas dei_—the doctrine that our intellectual intuition does not deceive us because God is truthful and will not deceive us;
+or in other words, the doctrine that our intellect is a source of knowledge because God is a source of knowledge.
+This doctrine has a long history which can easily be traced back at least to Homer and Hesiod.
+
+To us, the habit of referring to one's sources would seem natural in a scholar or an historian, and it is perhaps a little surprising to find that this habit stems from the poets;
+but it does.
+The Greek poets refer to the sources of their knowledge.
+The sources are divine.
+They are the Muses.
+'... the Greek bards' Gilbert Murray observes (_The Rise of the Greek Epic,_ 3rd edition, 1924, p. 96) 'always owe, not only what we should call their inspiration, but their actual knowledge of facts to the Muses.
+The Muses "are present and know all things"...
+Hesiod ... always explains that he is dependent on the Muses for his knowledge.
+Other sources of knowledge are indeed recognized.
+...
+But most often he consults the Muses.
+...
+So does Homer for such subjects as the Catalogue of the Greek army.'
+
+As this quotation shows, the poets were in the habit of claiming not only divine sources of inspiration, but also divine sources of knowledge—divine guarantors of the truth of their stories.
+
+<!-- page 9 -->
+Precisely the same two claims were raised by the philosophers Heraclitus and Parmenides.
+Heraclitus, it seems, sees himself as a prophet who 'talks with raving mouth, ... possessed by the god' by Zeus, the source of all wisdom (DK,<sup>1</sup> B, 92, 32; cf. 93, 41, 64, 50).
+And Parmenides, one could almost say, forms the missing link between Homer or Hesiod on the one side and Descartes on the other.
+His guiding star and inspiration is the goddess Dike, described by Heraclitus (DK, B, 28) as the guardian of truth. Parmenides describes her as the guardian and keeper of the keys of truth, and as the source of all his knowledge. But Parmenides and Descartes have more in common than the doc- trine of divine veracity. For example, Parmenides is told by his divine guarantor of truth that in order to distinguish be- tween truth and falsehood, he must rely upon the intellect alone, to the exclusion of the senses of sight, hearing, and taste. (Cf. Heraclitus, B, 54, 123; 88 and 126 point to unobservable changes yielding observable opposites.) And even the principle of his physical theory which, like Descartes, he founds upon his intellectualist theory of knowledge, is the same as that adopted by Descartes: it is the impossibility of a void, the necessary fullness of the world.
 In Plato's Ion a sharp distinction is made between divine inspiration (the divine frenzy of the poet) and divine sources or origins of true knowledge. (The topic is further developed in the Phaedrus, especially from 259 E on; and in 275 B-C Plato even in- sists, as Harold Cherniss pointed out to me, on the distinction between questions of origin and of truth.) Plato grants the in- spiration to the poets but denies to them any divine authority for their alleged knowledge of facts. Nevertheless, the doctrine of the divine source of our knowledge plays a decisive part in Plato's famous theory of anamnesis which in some measure grants to each man the possession of divine sources of knowledge. (The knowledge considered in this theory is knowledge of the essence or nature of a thing rather than of a particular historical fact.) According to Plato's Meno (81 B-D) there is nothing which our immortal soul does not know, prior to our birth. For as all natures are kindred and akin, our soul must be akin to all natures. Accordingly it knows them all: it knows all things. In being born we forget; but we may recover our memory and our knowledge, though only partially: if only we see the truth again, we must recognize it. All knowledge is therefore re-cognition- recalling or remembering the essence or true nature that we once knew.
 This theory implies that our soul is in a divine state of omni- science as long as it dwells, and participates, in a divine world of ideas or essences or natures, prior to being born. The birth of a man is his fall from grace; it is his fall from a natural or divine state of knowledge; and it is thus the origin and cause of his ignorance. (Here may be the seed of the idea that ignorance is sin.)
 48
@@ -433,3 +454,7 @@ THE SOURCES OF KNOWLEDGE AND IGNORANCE decree; that we should submit to truth; t
 Taken together these two ideas almost immediately yield the conclusion that the sources from which our knowledge derives must be super-human; a conclusion which tends to encourage self-righteousness and the use of force against those who refuse to see the divine truth.
 Some who rightly reject this conclusion do not, unhappily, reject the first idea-the belief in the existence of ultimate sources of knowledge. Instead they reject the second idea-the thesis that truth is above human authority. They thereby en- danger the idea of the objectivity of knowledge, and of common standards of criticism or rationality.
 What we should do, I suggest, is to give up the idea of ultimate sources of knowledge, and admit that all knowledge is human; that it is mixed with our errors, our prejudices, our dreams, and our hopes; that all we can do is to grope for truth even though it be beyond our reach. We may admit that our groping is often inspired, but we must be on our guard against the belief, however deeply felt, that our inspiration carries any authority, divine or otherwise. If we thus admit that there is no authority beyond the reach of criticism to be found within the whole province of our knowledge, however far it may have penetrated into the unknown, then we can retain, without danger, the idea that truth is beyond human authority. And we must retain it; for without this idea there can be no objective standards of inquiry; no criticism of our conjectures; no groping for the unknown; no quest for knowledge.
+
+---
+
+<sup>1</sup> DK = Diels-Kranz, _Framente der Vorosokratiker.
