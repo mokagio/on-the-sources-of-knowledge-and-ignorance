@@ -226,11 +226,35 @@ As this quotation shows, the poets were in the habit of claiming not only divine
 Precisely the same two claims were raised by the philosophers Heraclitus and Parmenides.
 Heraclitus, it seems, sees himself as a prophet who 'talks with raving mouth, ... possessed by the god' by Zeus, the source of all wisdom (DK,<sup>1</sup> B, 92, 32; cf. 93, 41, 64, 50).
 And Parmenides, one could almost say, forms the missing link between Homer or Hesiod on the one side and Descartes on the other.
-His guiding star and inspiration is the goddess Dike, described by Heraclitus (DK, B, 28) as the guardian of truth. Parmenides describes her as the guardian and keeper of the keys of truth, and as the source of all his knowledge. But Parmenides and Descartes have more in common than the doc- trine of divine veracity. For example, Parmenides is told by his divine guarantor of truth that in order to distinguish be- tween truth and falsehood, he must rely upon the intellect alone, to the exclusion of the senses of sight, hearing, and taste. (Cf. Heraclitus, B, 54, 123; 88 and 126 point to unobservable changes yielding observable opposites.) And even the principle of his physical theory which, like Descartes, he founds upon his intellectualist theory of knowledge, is the same as that adopted by Descartes: it is the impossibility of a void, the necessary fullness of the world.
-In Plato's Ion a sharp distinction is made between divine inspiration (the divine frenzy of the poet) and divine sources or origins of true knowledge. (The topic is further developed in the Phaedrus, especially from 259 E on; and in 275 B-C Plato even in- sists, as Harold Cherniss pointed out to me, on the distinction between questions of origin and of truth.) Plato grants the in- spiration to the poets but denies to them any divine authority for their alleged knowledge of facts. Nevertheless, the doctrine of the divine source of our knowledge plays a decisive part in Plato's famous theory of anamnesis which in some measure grants to each man the possession of divine sources of knowledge. (The knowledge considered in this theory is knowledge of the essence or nature of a thing rather than of a particular historical fact.) According to Plato's Meno (81 B-D) there is nothing which our immortal soul does not know, prior to our birth. For as all natures are kindred and akin, our soul must be akin to all natures. Accordingly it knows them all: it knows all things. In being born we forget; but we may recover our memory and our knowledge, though only partially: if only we see the truth again, we must recognize it. All knowledge is therefore re-cognition- recalling or remembering the essence or true nature that we once knew.
-This theory implies that our soul is in a divine state of omni- science as long as it dwells, and participates, in a divine world of ideas or essences or natures, prior to being born. The birth of a man is his fall from grace; it is his fall from a natural or divine state of knowledge; and it is thus the origin and cause of his ignorance. (Here may be the seed of the idea that ignorance is sin.)
-48
-PROCEEDINGS OF THE BRITISH ACADEMY
+His guiding star and inspiration is the goddess Dike, described by Heraclitus (DK, B, 28) as the guardian of truth.
+Parmenides describes her as the guardian and keeper of the keys of truth, and as the source of all his knowledge.
+But Parmenides and Descartes have more in common than the doctrine of divine veracity.
+For example, Parmenides is told by his divine guarantor of truth that in order to distinguish between truth and falsehood, he must rely upon the intellect alone, to the exclusion of the senses of sight, hearing, and taste.
+(Cf. Heraclitus, B, 54, 123; 88 and 126 point to _unobservable_ changes yielding observable opposites.)
+And even the principle of his physical theory which, like Descartes, he founds upon his intellectualist theory of knowledge, is the same as that adopted by Descartes:
+it is the impossibility of a void, the necessary fullness of the world.
+
+In Plato's _Ion_ a sharp distinction is made between divine inspiration (the divine frenzy of the poet) and divine sources or origins of true knowledge.
+(The topic is further developed in the Phaedrus, especially from 259 E on; and in 275 B-C Plato even insists, as Harold Cherniss pointed out to me, on the distinction between questions of origin and of truth.)
+Plato grants the inspiration to the poets but denies to them any divine authority for their alleged knowledge of facts.
+Nevertheless, the doctrine of the divine source of our knowledge plays a decisive part in Plato's famous theory of _anamnesis_ which in some measure grants to each man the possession of divine sources of knowledge.
+(The knowledge considered in this theory is knowledge of the _essence or nature_ of a thing rather than of a particular historical fact.)
+According to Plato's _Meno_ (81 B-D) there is nothing which our immortal soul does not know, prior to our birth.
+For as all natures are kindred and akin, our soul must be akin to all natures.
+Accordingly it knows them all:
+it knows all things.
+In being born we forget;
+but we may recover our memory and our knowledge, though only partially:
+if only we see the truth again, we must recognize it.
+All knowledge is therefore re-cognition—recalling or remembering the essence or true nature that we once knew.
+
+This theory implies that our soul is in a divine state of omniscience as long as it dwells, and participates, in a divine world of ideas or essences or natures, prior to being born.
+The birth of a man is his fall from grace;
+it is his fall from a natural or divine state of knowledge;
+and it is thus the origin and cause of his ignorance.
+(Here may be the seed of the idea that ignorance is sin.)
+
+<!-- page 10 -->
 It is clear that there is a close link between this theory of anamnesis and the doctrine of the divine origin or source of our knowledge. At the same time, there is also a close link between the theory of anamnesis and the doctrine of manifest truth: if, even in our depraved state of forgetfulness, we see the truth, we cannot but recognize it as the truth. So, as the result of anamnesis, truth is restored to the status of that which is not forgotten and not concealed (alethes): it is that which is manifest.
 Socrates demonstrates this in a beautiful passage of the Meno by helping an uneducated young slave to 'recall' the proof of a special case of the theorem of Pythagoras. Here indeed is an optimistic epistemology, and the root of Cartesianism. It seems that, in the Meno, Plato was conscious of the highly optimistic character of his theory, for he describes it as a doctrine which makes men eager to learn, to search, and to discover.
 Yet disappointment must have come to Plato; for in the Republic (and also in the Phaedrus) we find the beginnings of a pessimistic epistemology. In the famous story of the prisoners in the cave (514 ff.) he shows that the world of our experience is only a shadow, a reflection, of the real world. And he shows that even if one of the prisoners should escape from the cave and face the real world, he would have almost insuperable difficulties in seeing and understanding it-to say nothing of his difficulties in trying to make those understand who stayed behind. The difficulties in the way of an understanding of the real world are almost super-human, and only the very few, if anybody at all, can attain to the divine state of understanding the real world- the divine state of true knowledge, of episteme.
