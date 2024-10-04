@@ -116,12 +116,22 @@ This experience of mine may illustrate the point that our dreams and our hopes n
 
 **V**
 
-In examining the optimistic epistemology inherent in certain ideas of liberalism, I found a cluster of doctrines which, although often accepted implicitly, have not, to my knowledge, been explicitly discussed or even noticed by philosophers or historians. The most fundamental of them is one which I have already mentioned the doctrine that truth is manifest. The strangest of them is the conspiracy theory of ignorance, which is a curious outgrowth from the doctrine of manifest truth.
-By the doctrine that truth is manifest I mean, you will recall, the optimistic view that truth, if put before us naked, is always recognizable as truth. Thus truth has only to be unveiled, or dis-covered. Once this is done, there is no need for further argu- ment. We have been given eyes to see the truth, and the light of reason to see it by.
-This doctrine is at the heart of the teaching of both Descartes and Bacon. Descartes based his optimistic epistemology on the important theory of the veracitas dei. What we clearly and dis- tinctly see to be true must indeed be true; for otherwise God
-44
-PROCEEDINGS OF THE BRITISH ACADEMY
-would be deceiving us. Thus the truthfulness of God must make truth manifest.
+In examining the optimistic epistemology inherent in certain ideas of liberalism, I found a cluster of doctrines which, although often accepted implicitly, have not, to my knowledge, been explicitly discussed or even noticed by philosophers or historians.
+The most fundamental of them is one which I have already mentioned the doctrine that truth is manifest.
+The strangest of them is the conspiracy theory of ignorance, which is a curious outgrowth from the doctrine of manifest truth.
+
+By the doctrine that truth is manifest I mean, you will recall, the optimistic view that truth, if put before us naked, is always recognizable as truth.
+Thus truth has only to be unveiled, or discovered.
+Once this is done, there is no need for further argument.
+We have been given eyes to see the truth, and the light of reason to see it by.
+
+This doctrine is at the heart of the teaching of both Descartes and Bacon.
+Descartes based his optimistic epistemology on the important theory of the _veracitas dei_.
+What we clearly and distinctly see to be true must indeed be true;
+for otherwise God would be deceiving us.
+Thus the truthfulness of God must make truth manifest.
+
+<!-- page 6 -->
 In Bacon we have a similar doctrine. It might be described as the doctrine of the veracitas naturae, the truthfulness of Nature. Nature is an open book. He who reads it with a pure mind cannot misread it. Only if his mind is poisoned by prejudice can he fall into error.
 This last remark shows that the doctrine that truth is manifest creates the need to explain falsehood. Knowledge, the possession of truth, need not be explained. But how can we ever fall into error if truth is manifest? The answer is: through our own sinful refusal to see the manifest truth; or because our minds harbour prejudices inculcated by education and tradition, or other evil influences which have perverted our originally pure and innocent minds. Ignorance may be the work of powers conspiring to keep us in ignorance, to poison our minds by filling them with false- hood, and to blind our eyes so that they cannot see the manifest truth. Such prejudices and such powers, then, are sources of ignorance.
 The conspiracy theory of ignorance is fairly well known in its Marxian form as the conspiracy of a capitalist press that perverts and suppresses truth and fills the workers' minds with false ideologies. Prominent among these, of course, are the doctrines of religion. It is surprising to find how unoriginal this Marxist theory is. The wicked and fraudulent priest who keeps the people in ignorance was a stock figure of the eighteenth century and, I am afraid, one of the inspirations of liberalism. It can be traced back to the protestant belief in the conspiracy of the Roman Church, and also to the beliefs of those dissenters who held similar views about the Established Church. (Elsewhere I have traced the pre-history of this belief back to Plato's uncle Critias; see chapter 8, ii, of my Open Society.)
