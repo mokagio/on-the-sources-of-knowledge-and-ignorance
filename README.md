@@ -768,17 +768,36 @@ I believe that only by changing our question in this way can we hope to proceed 
 
 The question about the sources of our knowledge can be replaced in a similar way.
 It has always been asked in the spirit of:
-'What are the best sources of our knowledge—the most reliable ones, those which will not lead us into error, and those <!-- page 28 (66) --> to which we can and must turn, in case of doubt, as the last court of appeal?' I propose to assume, instead, that no such ideal sources exist—no more than ideal rulers-and that all 'sources' are liable to lead us into error at times. And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?'
-The question of the sources of our knowledge, like so many authoritarian questions, is a genetic one. It asks for the origin of our knowledge, in the belief that knowledge may legitimize itself by its pedigree. The nobility of the racially pure know- ledge, the untainted knowledge, the knowledge which derives from the highest authority, if possible from God: these are the (often unconscious) metaphysical ideas behind the question. My modified question, 'How can we hope to detect error?' may be said to derive from the view that such pure, untainted and certain sources do not exist, and that questions of origin or of purity should not be confounded with questions of validity, or of truth. This view may be said to be as old as Xenophanes. Xenophanes knew that our knowledge is guesswork, opinion- doxa rather than _epistēmē_-as shown by his verses (DK, B, 18 and 34):
-The gods did not reveal, from the beginning,
-All things to us; but in the course of time,
-Through seeking, men find that which is the better.
-But as for certain truth, no man has known it,
-Nor will he know it; neither of the gods,
-Nor yet of all the things of which I speak. And even if by chance he were to utter Finality, he would himself not know it; For all is but a woven web of guesses.
-Yet the traditional question of the authoritative sources of know- ledge is repeated even today-and very often by positivists, and by other philosophers who believe themselves to be in revolt against authority.
-The proper answer to my question 'How can we hope to detect and eliminate error?' is, I believe, 'By criticizing the theories or guesses of others and-if we can train ourselves to do so by criticizing our own theories or guesses.' (The latter point is highly desirable, but not indispensable; for if we fail to criticize our own theories, there may be others to do it for us.) This answer sums up a position which I propose to call 'critical
-THE SOURCES OF KNOWLEDGE AND IGNORANCE 67 rationalism'. It is a view, an attitude, and a tradition, which we owe to the Greeks. It is very different from the 'rationalism' or 'intellectualism' of Descartes and his school, and very different even from the epistemology of Kant. Yet in the field of ethics, of moral knowledge, it was approached by Kant with his principle of autonomy. This principle expresses his realization that we must not accept the command of an authority, however exalted, as the basis of ethics. For whenever we are faced with a command by an authority, it is for us to judge, critically, whether it is moral or immoral to obey. The authority may have power to enforce its commands, and we may be powerless to resist. But if we have the physical power of choice, then the ultimate responsibility remains with us. It is our own critical decision whether to obey a command; whether to submit to an authority.
+'What are the best sources of our knowledge—the most reliable ones, those which will not lead us into error, and those <!-- page 28 (66) --> to which we can and must turn, in case of doubt, as the last court of appeal?'
+I propose to assume, instead, that no such ideal sources exist—no more than ideal rulers—and that all 'sources' are liable to lead us into error at times.
+And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question:
+'_How can we hope to detect and eliminate error?_'
+
+The question of the sources of our knowledge, like so many authoritarian questions, is a _genetic_ one.
+It asks for the origin of our knowledge, in the belief that knowledge may legitimize itself by its pedigree.
+The nobility of the racially pure knowledge, the untainted knowledge, the knowledge which derives from the highest authority, if possible from God:
+these are the (often unconscious) metaphysical ideas behind the question.
+My modified question, 'How can we hope to detect error?' may be said to derive from the view that such pure, untainted and certain sources do not exist, and that questions of origin or of purity should not be confounded with questions of validity, or of truth.
+This view may be said to be as old as Xenophanes.
+Xenophanes knew that our knowledge is guesswork, opinion—_doxa_ rather than _epistēmē_—as shown by his verses (DK, B, 18 and 34):
+
+> The gods did not reveal, from the beginning,
+> All things to us; but in the course of time,
+> Through seeking, men find that which is the better.
+>
+> But as for certain truth, no man has known it,
+> Nor will he know it; neither of the gods,
+> Nor yet of all the things of which I speak.
+> And even if by chance he were to utter
+> Finality, he would himself not know it;
+> For all is but a woven web of guesses.
+
+Yet the traditional question of the authoritative sources of knowledge is repeated even today—and very often by positivists, and by other philosophers who believe themselves to be in revolt against authority.
+
+The proper answer to my question 'How can we hope to detect and eliminate error?' is, I believe, 'By criticizing the theories or guesses of others and—if we can train ourselves to do so by criticizing our own theories or guesses.'
+(The latter point is highly desirable, but not indispensable; for if we fail to criticize our own theories, there may be others to do it for us.)
+This answer sums up a position which I propose to call 'critical <!-- page 29 (67) --> rationalism'.
+It is a view, an attitude, and a tradition, which we owe to the Greeks. It is very different from the 'rationalism' or 'intellectualism' of Descartes and his school, and very different even from the epistemology of Kant. Yet in the field of ethics, of moral knowledge, it was approached by Kant with his principle of autonomy. This principle expresses his realization that we must not accept the command of an authority, however exalted, as the basis of ethics. For whenever we are faced with a command by an authority, it is for us to judge, critically, whether it is moral or immoral to obey. The authority may have power to enforce its commands, and we may be powerless to resist. But if we have the physical power of choice, then the ultimate responsibility remains with us. It is our own critical decision whether to obey a command; whether to submit to an authority.
 Kant boldly carried this idea into the field of religion: . . . in whatever way,' he writes, 'the Deity should be made known to if He should reveal Himself to you: it is you... you even. who must judge whether you are permitted to believe in Him, and to worship Him.' (Religion Within the Limits of Pure Reason, 2nd edition, Chapter iv, Pt. 2, § 1, the first footnote.)
 In view of this bold statement, it seems strange that Kant did not adopt the same attitude-that of critical examination, of the critical search for error-in the field of science. I feel certain that it was only his acceptance of the authority of Newton's cosmology-a result of its almost unbelievable success in passing the most severe tests-which prevented Kant from doing so. If this interpretation of Kant is correct, then the critical ration- alism (and also the critical empiricism) which I advocate merely puts the finishing touch to Kant's own critical philosophy. And this was made possible by Einstein, who taught us that Newton's theory may well be mistaken in spite of its incredible success.
 So my answer to the question 'How do you know? What is the source or the basis of your assertion? What observations have led you to it?' would be: 'I do not know: my assertion was merely a guess. Never mind the source, or the sources, from which it may spring-there are many possible sources, and I may not be aware of half of them; and origins or pedigrees have in any case little bearing upon truth. But if you are interested in the problem which I tried to solve by my tentative assertion, you may help me by criticising it as severely as you can; and if you can design some experimental test which you think might refute my assertion, I shall gladly, and to the best of my powers, help you to refute it.'
