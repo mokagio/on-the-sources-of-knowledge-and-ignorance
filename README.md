@@ -856,12 +856,36 @@ Most things we know we have learned by example, by being told, by reading books,
 
 <span>5.</span> The fact that most of the sources of our knowledge are traditional condemns anti-traditionalism as futile.
 But this fact must not be held to support a traditionalist attitude:
-every bit of our traditional knowledge (and even our inborn knowledge) is <!-- page 31 (69) --> open to critical examination and may be overthrown. Never- theless, without tradition, knowledge would be impossible.
-6. Knowledge cannot start from nothing-from a tabula rasa- nor yet from observation. The advance of knowledge consists, mainly, in the modification of earlier knowledge. Although we. may sometimes, for example in archaeology, advance through a chance observation, the significance of the discovery will usually depend upon its power to modify our earlier theories.
-7. Pessimistic and optimistic epistemologies are about equally mistaken. The pessimistic cave story of Plato is the true one, and not his optimistic story of anamnesis (even though we should admit that all men, like all other animals, and even all plants, possess inborn knowledge). But although the world of appear- ances is indeed a world of mere shadows on the walls of our cave, we all constantly reach out beyond it; and although, as Democritus said, the truth is hidden in the deep, we can probe into the deep. There is no criterion of truth at our disposal, and this fact supports pessimism. But we do possess criteria which, if we are lucky, often allow us to recognize error and falsity. Clarity and distinctness are not criteria of truth, but such things as obscurity and confusion indicate error. Similarly, coherence does not establish truth, but incoherence and inconsistency establish falsehood. And, when they are recognized, our own errors provide the dim red lights which help us in feeling our way out of the dark of our cave.
-8. Neither observation nor reason are authorities. Intellectual intuition and imagination are most important, but they are not reliable: they may show us things very clearly, and yet they may mislead us. They are indispensable as the main sources of our theories; but most of our theories are false anyway. The most important function of observation and reasoning, and even of intuition and imagination, is to help us in the critical examina- tion of those bold conjectures which are the means by which we probe into the unknown.
-9. Every solution of a problem raises new unsolved problems; the more so the deeper the original problem and the bolder its solution. The more we learn about the world, and the deeper our learning, the more conscious, specific, and articulate will be our knowledge of what we do not know, our knowledge of our ignorance. For this, indeed, is the true source of our ignorance -the fact that our knowledge can only be finite, while our ignorance must necessarily be infinite.
-We may get a glimpse of the vastness of our ignorance when
+every bit of our traditional knowledge (and even our inborn knowledge) is <!-- page 31 (69) --> open to critical examination and may be overthrown.
+Nevertheless, without tradition, knowledge would be impossible.
+
+<span>6.</span> Knowledge cannot start from nothing—from a _tabula rasa_— nor yet from observation.
+The advance of knowledge consists, mainly, in the modification of earlier knowledge.
+Although we may sometimes, for example in archaeology, advance through a chance observation, the significance of the discovery will usually depend upon its power to modify our earlier theories.
+
+<span>7.</span> Pessimistic and optimistic epistemologies are about equally mistaken.
+The pessimistic cave story of Plato is the true one, and not his optimistic story of _anamnesis_ (even though we should admit that all men, like all other animals, and even all plants, possess inborn knowledge).
+But although the world of appearances is indeed a world of mere shadows on the walls of our cave, we all constantly reach out beyond it;
+and although, as Democritus said, the truth is hidden in the deep, we can probe into the deep.
+There is no criterion of truth at our disposal, and this fact supports pessimism.
+But we do possess criteria which, if we are lucky, often allow us to recognize error and falsity.
+Clarity and distinctness are not criteria of truth, but such things as obscurity and confusion indicate error.
+Similarly, coherence does not establish truth, but incoherence and inconsistency establish falsehood.
+And, when they are recognized, our own errors provide the dim red lights which help us in feeling our way out of the dark of our cave.
+
+<span>8.<span> Neither observation nor reason are authorities.
+Intellectual intuition and imagination are most important, but they are not reliable:
+they may show us things very clearly, and yet they may mislead us.
+They are indispensable as the main sources of our theories;
+but most of our theories are false anyway.
+The most important function of observation and reasoning, and even of intuition and imagination, is to help us in the critical examination of those bold conjectures which are the means by which we probe into the unknown.
+
+<spa>9.</span> Every solution of a problem raises new unsolved problems;
+the more so the deeper the original problem and the bolder its solution.
+The more we learn about the world, and the deeper our learning, the more conscious, specific, and articulate will be our knowledge of what we do not know, our knowledge of our ignorance.
+For this, indeed, is the true source of our ignorance—the fact that our knowledge can only be finite, while our ignorance must necessarily be infinite.
+
+We may get a glimpse of the vastness of our ignorance when <!-- page 32 (70) -->
 70
 PROCEEDINGS OF THE BRITISH ACADEMY
 we contemplate the vastness of the heavens: though the mere size of the universe is not the deepest cause of our ignorance, it is one of its causes. 'Where I seem to differ from some of my friends', F. P. Ramsey wrote in a charming passage of his Foundations of Mathematics (p. 291), 'is in attaching little im- portance to physical size. I don't feel in the least humble before the vastness of the heavens. The stars may be large but they cannot think or love; and these are qualities which impress me far more than size does. I take no credit for weighing nearly seventeen stones.' I suspect that Ramsey's friends would have agreed with him about the insignificance of sheer physical size; and I suspect that if they felt humble before the vastness of the heavens, this was because they saw in it a symbol of their ignorance.
