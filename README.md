@@ -940,4 +940,4 @@ no quest for knowledge.
 
 <sup>1</sup> DK = Diels-Kranz, _Framente der Vorosokratiker.
 
-<sup>2</sup> This answer, and almost the whole of the contents of the present section XV, are taken with only minor changes from a paper of mine which was first published in _The Indian Journal of Philosophy_, i, No. 1, 1959.
+<sup>2</sup> This answer, and almost the whole of the contents of the present section XV, are taken with only minor changes from a paper of mine which was first published in _The Indian Journal of Philosophy_, I, No. 1, 1959.
