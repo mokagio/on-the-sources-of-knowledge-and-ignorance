@@ -797,12 +797,36 @@ Yet the traditional question of the authoritative sources of knowledge is repeat
 The proper answer to my question 'How can we hope to detect and eliminate error?' is, I believe, 'By criticizing the theories or guesses of others and—if we can train ourselves to do so by criticizing our own theories or guesses.'
 (The latter point is highly desirable, but not indispensable; for if we fail to criticize our own theories, there may be others to do it for us.)
 This answer sums up a position which I propose to call 'critical <!-- page 29 (67) --> rationalism'.
-It is a view, an attitude, and a tradition, which we owe to the Greeks. It is very different from the 'rationalism' or 'intellectualism' of Descartes and his school, and very different even from the epistemology of Kant. Yet in the field of ethics, of moral knowledge, it was approached by Kant with his principle of autonomy. This principle expresses his realization that we must not accept the command of an authority, however exalted, as the basis of ethics. For whenever we are faced with a command by an authority, it is for us to judge, critically, whether it is moral or immoral to obey. The authority may have power to enforce its commands, and we may be powerless to resist. But if we have the physical power of choice, then the ultimate responsibility remains with us. It is our own critical decision whether to obey a command; whether to submit to an authority.
-Kant boldly carried this idea into the field of religion: . . . in whatever way,' he writes, 'the Deity should be made known to if He should reveal Himself to you: it is you... you even. who must judge whether you are permitted to believe in Him, and to worship Him.' (Religion Within the Limits of Pure Reason, 2nd edition, Chapter iv, Pt. 2, § 1, the first footnote.)
-In view of this bold statement, it seems strange that Kant did not adopt the same attitude-that of critical examination, of the critical search for error-in the field of science. I feel certain that it was only his acceptance of the authority of Newton's cosmology-a result of its almost unbelievable success in passing the most severe tests-which prevented Kant from doing so. If this interpretation of Kant is correct, then the critical ration- alism (and also the critical empiricism) which I advocate merely puts the finishing touch to Kant's own critical philosophy. And this was made possible by Einstein, who taught us that Newton's theory may well be mistaken in spite of its incredible success.
-So my answer to the question 'How do you know? What is the source or the basis of your assertion? What observations have led you to it?' would be: 'I do not know: my assertion was merely a guess. Never mind the source, or the sources, from which it may spring-there are many possible sources, and I may not be aware of half of them; and origins or pedigrees have in any case little bearing upon truth. But if you are interested in the problem which I tried to solve by my tentative assertion, you may help me by criticising it as severely as you can; and if you can design some experimental test which you think might refute my assertion, I shall gladly, and to the best of my powers, help you to refute it.'
-68
-PROCEEDINGS OF THE BRITISH ACADEMY
+It is a view, an attitude, and a tradition, which we owe to the Greeks.
+It is very different from the 'rationalism' or 'intellectualism' of Descartes and his school, and very different even from the epistemology of Kant.
+Yet in the field of ethics, of moral knowledge, it was approached by Kant with his _principle of autonomy_.
+This principle expresses his realization that we must not accept the command of an authority, however exalted, as the basis of ethics.
+For whenever we are faced with a command by an authority, it is for us to judge, critically, whether it is moral or immoral to obey.
+The authority may have power to enforce its commands, and we may be powerless to resist.
+But if we have the physical power of choice, then the ultimate responsibility remains with us.
+It is our own critical decision whether to obey a command;
+whether to submit to an authority.
+
+Kant boldly carried this idea into the field of religion:
+'... in whatever way,' he writes, 'the Deity should be made know to you—even ... if He should reveal Himself to you: it is you ... who must judge whether you are permitted to believe in Him, and to worship Him.'
+(_Religion Within the Limits of Pure Reason_, 2nd edition, Chapter iv, Pt. 2, § 1, the first footnote.)
+
+In view of this bold statement, it seems strange that Kant did not adopt the same attitude—that of critical examination, of the critical search for error—in the field of science.
+I feel certain that it was only his acceptance of the authority of Newton's cosmology—a result of its almost unbelievable success in passing the most severe tests—which prevented Kant from doing so.
+If this interpretation of Kant is correct, then the critical rationalism (and also the critical empiricism) which I advocate merely puts the finishing touch to Kant's own critical philosophy.
+And this was made possible by Einstein, who taught us that Newton's theory may well be mistaken in spite of its incredible success.
+
+So my answer to the question 'How do you know?
+What is the source or the basis of your assertion?
+What observations have led you to it?' would be:
+'I do _not_ know:
+my assertion was merely a guess.
+Never mind the source, or the sources, from which it may spring—there are many possible sources, and I may not be aware of half of them;
+and origins or pedigrees have in any case little bearing upon truth.
+But if you are interested in the problem which I tried to solve by my tentative assertion, you may help me by criticising it as severely as you can;
+and if you can design some experimental test which you think might refute my assertion, I shall gladly, and to the best of my powers, help you to refute it.'
+
+<!-- page 30 (68) -->
 This answer1 applies, strictly speaking, only if the question is asked about some scientific assertion as distinct from an historical one. If my conjecture was an historical one, sources (in the non- ultimate sense) will of course come into the critical discussion of its validity. Yet fundamentally, my answer will be the same, as we have seen.
 XVI
 It is high time now, I think, to formulate the epistemological results of this discussion. I will put them in the form of nine theses.
