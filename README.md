@@ -665,15 +665,32 @@ If he has a friend in the Prime Minister's office, the simplest and most direct 
 and if this friend corroborated the message, then that is that.
 
 In other words, the investigator will, if possible, try to check, or to examine, _the asserted fact itself_, rather than trace the source of the information.
-But according to the empiricist theory, the assertion 'I have read it in _The Times_' is merely a first step in a justification procedure consisting in tracing the ultimate source. What is the next step?
-There are at least two next steps. One would be to reflect that 'I have read it in _The Times_' is also an assertion, and that we might ask 'What is the source of your knowledge that
-you read it in _The Times_ and not, say, in a paper looking very similar to _The Times_?' The other is to ask _The Times_ for the sources of its knowledge. The answer to the first question may be 'But we have only _The Times_ on order and we always get it in the morning' which gives rise to a host of further questions about sources which we shall not pursue. The second question may elicit from the editor of _The Times_ the answer: 'We had a telephone call from the Prime Minister's office.' Now according to the empiricist procedure, we should at this stage ask next: 'Who is the gentle- man who received the telephone call?' and then get his observa- tion report; but we should also have to ask that gentleman: 'What is the source of your knowledge that the voice you heard came from an official in the Prime Minister's office', and so on.
-There is a simple reason why this tedious sequence of ques- tions never comes to a satisfactory conclusion. It is this. Every witness must always make ample use, in his report, of his knowledge of persons, places, things, linguistic usages, social conventions, and so on. He cannot rely merely upon his eyes or ears, especially if his report is to be of use in justifying any assertion worth justifying. But this fact must of course always raise new questions as to the sources of those elements of his knowledge which are not immediately observational.
-This is why the programme of tracing back all knowledge to its ultimate source in observation is logically impossible to carry through: it leads to an infinite regress. (The doctrine that truth is manifest cuts off the regress. This is interesting because it may help to explain the attractiveness of that doctrine.)
-I wish to mention, in parenthesis, that this argument is closely
-63
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-related to another-that all observation involves interpretation in the light of our theoretical knowledge, or that pure observa- tional knowledge, unadulterated by theory, would, if at all possible, be utterly barren and futile.
+But according to the empiricist theory, the assertion 'I have read it in _The Times_' is merely a first step in a justification procedure consisting in tracing the ultimate source.
+What is the next step?
+
+There are at least two next steps.
+One would be to reflect that 'I have read it in _The Times_' is also an assertion, and that we might ask 'What is the source of your knowledge that you read it in _The Times_ and not, say, in a paper looking very similar to _The Times_?'
+The other is to ask _The Times_ for the sources of its knowledge.
+The answer to the first question may be 'But we have only _The Times_ on order and we always get it in the morning' which gives rise to a host of further questions about sources which we shall not pursue.
+The second question may elicit from the editor of _The Times_ the answer:
+'We had a telephone call from the Prime Minister's office.'
+Now according to the empiricist procedure, we should at this stage ask next:
+'Who is the gentleman who received the telephone call?' and then get his observation report;
+but we should also have to ask that gentleman:
+'What is the source of your knowledge that the voice you heard came from an official in the Prime Minister's office', and so on.
+
+There is a simple reason why this tedious sequence of questions never comes to a satisfactory conclusion.
+It is this.
+Every witness must always make ample use, in his report, of his knowledge of persons, places, things, linguistic usages, social conventions, and so on.
+He cannot rely merely upon his eyes or ears, especially if his report is to be of use in justifying any assertion worth justifying.
+But this fact must of course always raise new questions as to the sources of those elements of his knowledge which are not immediately observational.
+
+This is why the programme of tracing back all knowledge to its ultimate source in observation is logically impossible to carry through:
+it leads to an infinite regress.
+(The doctrine that truth is manifest cuts off the regress. This is interesting because it may help to explain the attractiveness of that doctrine.)
+
+I wish to mention, in parenthesis, that this argument is closely <!-- page 25 (63) --> related to another—that all observation involves interpretation in the light of our theoretical knowledge, or that pure observational knowledge, unadulterated by theory, would, if at all possible, be utterly barren and futile.
+
 The most striking thing about the observationalist programme of asking for sources-apart from its tediousness-is its stark violation of common sense. For if we are doubtful about an assertion, then the normal procedure is to test it, rather than to ask for its sources; and if we find independent corroboration, then we shall often accept the assertion without bothering at all about sources.
 Of course there are cases in which the situation is different. Testing an historical assertion always means going back to sources; but not, as a rule, to the reports of eyewitnesses.
 Clearly, no historian will accept the evidence of documents uncritically. There are problems of genuineness, there are problems of bias, and there are also such problems as the recon- struction of earlier sources. There are, of course, also problems such as: was the writer present when these events happened? But this is not one of the characteristic problems of the historian. He may worry about the reliability of a report, but he will rarely worry about whether or not the writer of a document was an eyewitness of the event in question, even assuming that this event was of the nature of an observable event. A letter saying 'I changed my mind yesterday on this question' may be most valuable historical evidence, even though changes of mind are unobservable (and even though we may conjecture, in view of other evidence, that the writer was lying).
