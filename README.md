@@ -502,42 +502,109 @@ Most of us have caught ourselves in a feeling of surprise when we find that in F
 Of course, we smile about our own naïvety;
 but we do not smile about the policeman who discovers that _the real name_ of the man called 'Samuel Jones' was 'John Smith'—though <!-- page 20 --> here is, no doubt, a last vestige of the magical belief that we gain power over a man or a god by gaining knowledge of his _real_ name.
 
-Thus there is indeed a familiar as well as logically defensible sense in which the 'true' or 'proper' meaning of a term is its original meaning; so that if we understand it, we do so because we learned it correctly-from a true authority, from one who knew the language. This shows that the problem of the meaning of a word is indeed linked to the problem of the authoritative source, or the origin, of our usage.
-It is different with the problem of the truth of a statement of fact, a proposition. For anybody can make a factual mistake- even in matters on which he should be an authority, such as his own age or the colour of a thing which he has just this moment clearly and distinctly perceived. And as to origins, a statement may easily have been false when it was first made, and first properly understood. A word, on the other hand, must have had a proper meaning as soon as it was ever understood.
-If we thus reflect upon the difference between the ways in which the meaning of words and the truth of statements is related to their origins, we are hardly tempted to think that the question of origin can have much bearing on the question of knowledge or of truth. There is, however, a deep analogy between meaning and truth; and there is a philosophical view- I have called it 'essentialism'-which tries to link meaning and truth so closely that the temptation to treat both in the same way becomes almost irresistible.
+Thus there is indeed a familiar as well as logically defensible sense in which the 'true' or 'proper' meaning of a term is its original meaning;
+so that if we understand it, we do so because we learned it correctly—from a true authority, from one who knew the language.
+This shows that the problem of the meaning of a word is indeed linked to the problem of the authoritative source, or the origin, of our usage.
+
+It is different with the problem of the truth of a statement of fact, a proposition.
+For anybody can make a factual mistake—even in matters on which he should be an authority, such as his own age or the colour of a thing which he has just this moment clearly and distinctly perceived.
+And as to origins, a statement may easily have been false when it was first made, and first properly understood.
+A word, on the other hand, must have had a proper meaning as soon as it was ever understood.
+
+If we thus reflect upon the difference between the ways in which the meaning of words and the truth of statements is related to their origins, we are hardly tempted to think that the question of origin can have much bearing on the question of knowledge or of truth.
+There is, however, a deep analogy between meaning and truth;
+and there is a philosophical view—I have called it 'essentialism'—which tries to link meaning and truth so closely that the temptation to treat both in the same way becomes almost irresistible.
+
 In order to explain this briefly, we may first contemplate the table opposite, noting the relation between its two sides.
-How are the two sides of this table connected? If we look at the left side of the table, we find there the word 'Definitions'. But a definition is a kind of statement or judgement or proposition, and therefore one of those things which stand on the right side of our table. (This fact, incidentally, does not spoil the symmetry of the table, for derivations are also things that transcend the kind of things-statements, &c.-which stand on the side where the word 'derivation' occurs: just as a definition is formulated by a special kind of sequence of words rather than by a word, so a derivation is formulated by a special kind of sequence of statements rather than by a statement.) The fact that definitions, which occur on the left side of our table, are nevertheless statements suggests that somehow they may form a link between the left and the right side of the table.
-That they do this is, indeed, part of that philosophic doctrine
-59
-THE SOURCES OF KNOWLEDGE AND IGNORANCE to which I have given the name 'essentialism'. According to essentialism (especially Aristotle's version of it) a definition is a statement of the inherent essence of a thing. At the same time, it states the meaning of a word-of the name that de- signates the essence. (For example, Descartes, and also Kant,
-DESIGNATIONS or TERMS or
-CONCEPTS
-IDEAS
-that is
-STATEMENTS or JUDGEMENTS or PROPOSITIONS
-may be expressed by
-WORDS
-ASSERTIONS
-which may be
-MEANINGFUL
-TRUE
-and their
-MEANING
-may be reduced, by way of
-DEFINITIONS
-TRUTH
-DERIVATIONS
-to that of
-UNDEFINED CONCEPTS
-PRIMITIVE PROPOSITIONS
-Incidentally, the attempt to establish rather than to reduce their
-MEANING
-TRUTH
-by these means leads to an infinite regress
-hold that the word 'body' designates something that is, essentially, extended.)
-Moreover, Aristotle and all other essentialists held that defini- tions are principles'; that is to say, they yield primitive propositions (example: 'All bodies are extended') which cannot be derived from other propositions, and which form the basis, or are part of the basis, of every demonstration. They thus form the basis of every science. (Cf. my Open Society, esp. notes 27 to 33 to chapter II.) It should be noted that this particular tenet, though an important part of the essentialist creed, is free of any reference to 'essences'. This explains why it was accepted by some nomina- listic opponents of essentialism, such as Hobbes, or Schlick. (Cf. his Erkenntnislehre, 2nd edition, p. 62.)
-60
-PROCEEDINGS OF THE BRITISH ACADEMY
+
+How are the two sides of this table connected?
+If we look at the left side of the table, we find there the word '_Definitions_'.
+But a definition is a kind of _statement_ or _judgement_ or _proposition_, and therefore one of those things which stand on the right side of our table.
+(This fact, incidentally, does not spoil the symmetry of the table, for derivations are also things that transcend the kind of things—statements, &c.—which stand on the side where the word 'derivation' occurs:
+just as a definition is formulated by a special kind of _sequence of words_ rather than by a word, so a derivation is formulated by a special kind of _sequence of statements_ rather than by a statement.)
+The fact that definitions, which occur on the left side of our table, are nevertheless statements suggests that somehow they may form a link between the left and the right side of the table.
+
+That they do this is, indeed, part of that philosophic doctrine <!-- page 21 (59) --> to which I have given the name 'essentialism'.
+According to essentialism (especially Aristotle's version of it) a definition is a statement of the inherent essence of a thing.
+At the same time, it states the meaning of a word—of the name that designates the essence.
+(For example, Descartes, and also Kant, hold that the word 'body' designates something that is, essentially, extended.)
+
+<table>
+  <tr><td>IDEAS</td></tr>
+  <tr><td><em>that is</em></td></tr>
+  <tr>
+    <td>
+      DESIGNATIONS or TERMS or CONCEPTS
+    </td>
+    <td>
+      STATEMENTS or JUDGEMENTS or PROPOSITIONS
+    </td>
+  </tr>
+  <tr><td><em>may be expressed by</em></td></tr>
+  <tr>
+    <td>
+      WORDS
+    </td>
+    <td>
+      ASSERTIONS
+    </td>
+  </tr>
+  <tr><td><em>which may be</em></td></tr>
+  <tr>
+    <td>
+      MEANINGFUL
+    </td>
+    <td>
+      TRUE
+    </td>
+  </tr>
+  <tr><td><em>and their</em></td></tr>
+  <tr>
+    <td>
+      MEANING
+    </td>
+    <td>
+      TRUTH
+    </td>
+  </tr>
+  <tr><td><em>may be reduced, by way of</em></td></tr>
+  <tr>
+    <td>
+      DEFINITIONS
+    </td>
+    <td>
+      DERIVATIONS
+    </td>
+  </tr>
+  <tr><td><em>to that of</em></td></tr>
+  <tr>
+    <td>
+      UNDEFINED CONCEPTS
+    </td>
+    <td>
+      PRIMITIVE PROPOSITIONS
+    </td>
+  </tr>
+  <tr><td><em>Incidentally, the attempt to establish rather than to reduce their</em></td></tr>
+  <tr>
+    <td>
+      MEANING
+    </td>
+    <td>
+      TRUTH
+    </td>
+  </tr>
+  <tr><td><em>by these means leads to an infinite regress</em></td></tr>
+</table>
+
+Moreover, Aristotle and all other essentialists held that definitions are principles';
+that is to say, they yield primitive propositions (example: 'All bodies are extended') which cannot be derived from other propositions, and which form the basis, or are part of the basis, of every demonstration.
+They thus form the basis of every science.
+(Cf. my _Open Society_, esp. notes 27 to 33 to chapter II.)
+It should be noted that this particular tenet, though an important part of the essentialist creed, is free of any reference to 'essences'.
+This explains why it was accepted by some nominalistic opponents of essentialism, such as Hobbes, or Schlick. (Cf. his _Erkenntnislehre_, 2nd edition, p. 62.)
+
+<!-- page 22 (60) -->
 I think we have now the means at our disposal by which we can explain the logic of the view that questions of origin may decide questions of factual truth. For if origins can determine the true meaning of a term or word, then they can determine the true definition of an important idea, and therefore some at least of the basic principles' underlying our demonstrations and consequently our scientific knowledge. So it will then appear that there are authoritative sources of our knowledge.
 Yet we must realize that essentialism is mistaken in suggesting that definitions can add to our knowledge of facts (although qua decisions about conventions they may be influenced by our knowledge of facts, and although they create instruments which may in their turn influence the formation of our theories and thereby the evolution of our knowledge of facts). Once we see that definitions never state any factual knowledge we also see the break in the logical link between the problem of origin and that of factual truth which some essentialist philosophers tried to forge.
 XIII
