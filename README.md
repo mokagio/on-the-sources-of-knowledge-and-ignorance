@@ -412,22 +412,58 @@ They were part of the war against authority which it was the fashion of the time
 Men do not need such authorities if they can perceive the truth themselves.
 
 <!-- page 16 -->
-But I do not think that Bacon and Descartes succeeded in freeing their epistemologies from authority; not so much because they appealed to religious authority-to Nature or to God- but for an even deeper reason.
-In spite of their individualistic tendencies, they did not dare to appeal to our critical judgement-to your judgement, or to mine; perhaps because they felt that this might lead to sub- jectivism and to arbitrariness. Yet whatever their reasons may have been, they certainly were unable to get away, though they wanted to do so, from thinking in terms of authority. They could only replace one authority-that of Aristotle and the Bible-by another. Each of them appealed to a new authority; the one to the authority of the senses, and the other to the authority of the intellect.
-This means that they failed to solve the great problem of how to admit that our knowledge was a human-an all too human- affair, without at the same time implying that it was all indi- vidual whim and arbitrariness.
-Yet this problem had been seen and solved long ago; first, it appears, by Xenophanes, and then by Democritus, and by Socrates (the Socrates of the Apology rather than of the Meno). The solution lies in the realization that all of us may and often do err, singly and collectively, but that this very idea of error involves another one-the idea of an objective truth: the stan- dard which we may fall short of. Thus the doctrine of fallibility should not be regarded as part of a pessimistic epistemology. This doctrine implies that we may seek for truth, for objective truth, even though we may miss it by a wide margin.
-Erasmus of Rotterdam attempted to revive this Socratic doctrine, the all important though unobtrusive doctrine, 'Know thyself, and thus admit to thyself how little thou knowest!' Yet this doctrine was swept away by the theory that truth is mani- fest, and by the new self-assurance exemplified and taught in different ways by Luther, Bacon, and Descartes.
-It is important to realize, in this connexion, the difference between Cartesian doubt and the doubt of Socrates, or Erasmus, or Montaigne. While Socrates doubts human knowledge or wisdom, and remains firm in his rejection of any pretension to knowledge or wisdom, Descartes doubts everything but only to end up with the possession of absolutely certain knowledge; for he finds that his universal doubt would lead him to doubt the
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-55
-truthfulness of God, which is absurd. Having proved that universal doubt is absurd, he concludes that we can be wise-by distinguishing, in the light of reason, between clear and distinct ideas whose source is God, and all others whose source is our own impure imagination. Cartesian doubt, we see, is merely a maieutic instrument for producing a criterion of truth and for establishing knowledge and wisdom. Yet for the Socrates of the Apology, wisdom consisted in the awareness of our limitations; in knowing how little we know, every one of us.
-It was this doctrine of an essential human fallibility which Nicolas of Cusa and Erasmus of Rotterdam (who refers to Socrates) revived; and it was this 'humanist' doctrine (in con- tradistinction to the optimistic doctrine on which Milton relied, the doctrine that truth will prevail) which Nicolas and Erasmus, Montaigne and Locke and Voltaire, followed by John Stuart Mill and Bertrand Russell, made the basis of the doctrine of tolerance. 'What is tolerance?' asks Voltaire in his Philosophical Dictionary; and he answers: 'It is a necessary consequence of our humanity. We are all fallible, and prone to error; let us then pardon each other's folly. This is the first principle of natural right.' (More recently the doctrine of fallibility has been made the basis of a theory of political freedom; that is, freedom from coercion. See F. A. Hayek, The Constitution of Liberty, especially pp. 22 and 29.)
-XI
-Bacon and Descartes set up observation and reason as new authorities, and they set them up within each individual man. But in doing so they split man into two parts, into a higher part which had authority with respect to truth-Bacon's observa- tions, Descartes' intellect and into a lower part. It is this low part which constitutes our ordinary selves, the old Adam in us. For it is always 'we ourselves' who are alone responsible for error, if truth is manifest. It is we, with our prejudices, our negligence, our pigheadedness, who are to blame; it is we ourselves who are the sources of our ignorance.
-Thus we are split into a human part, we ourselves, the part which is the source of our fallible opinions (doxa), of our errors, and of our ignorance; and a super-human part, such as the senses or the intellect, the part which is the source of our know- ledge (epistēmē), and which has an almost divine authority
-over us.
-56
-PROCEEDINGS OF THE BRITISH ACADEMY
+But I do not think that Bacon and Descartes succeeded in freeing their epistemologies from authority;
+not so much because they appealed to religious authority—to Nature or to God—but for an even deeper reason.
+
+In spite of their individualistic tendencies, they did not dare to appeal to our critical judgement—to your judgement, or to mine; perhaps because they felt that this might lead to subjectivism and to arbitrariness.
+Yet whatever their reasons may have been, they certainly were unable to get away, though they wanted to do so, from thinking in terms of authority.
+They could only replace one authority—that of Aristotle and the Bible—by another.
+Each of them appealed to a new authority;i
+the one to _the authority of the senses_, and the other to _the authority of the intellect_.
+
+This means that they failed to solve the great problem of how to admit that our knowledge was a human—an all too human—affair, without at the same time implying that it was all individual whim and arbitrariness.
+
+Yet this problem had been seen and solved long ago;i
+first, it appears, by Xenophanes, and then by Democritus, and by Socrates (the Socrates of the _Apology_ rather than of the _Meno_).
+The solution lies in the realization that all of us may and often do err, singly and collectively, but that this very idea of error involves another one—the idea of an objective truth:
+the standard which we may fall short of.
+Thus the doctrine of fallibility should not be regarded as part of a pessimistic epistemology.
+This doctrine implies that we may seek for truth, for objective truth, even though we may miss it by a wide margin.
+
+Erasmus of Rotterdam attempted to revive this Socratic doctrine, the all important though unobtrusive doctrine, 'Know thyself, and thus admit to thyself how little thou knowest!'
+Yet this doctrine was swept away by the theory that truth is manifest, and by the new self-assurance exemplified and taught in different ways by Luther, Bacon, and Descartes.
+
+<!-- page 17 -->
+It is important to realize, in this connexion, the difference between Cartesian doubt and the doubt of Socrates, or Erasmus, or Montaigne.
+While Socrates doubts human knowledge or wisdom, and remains firm in his rejection of any pretension to knowledge or wisdom, Descartes doubts everything but only to end up with the possession of absolutely certain knowledge;
+for he finds that his universal doubt would lead him to doubt the truthfulness of God, which is absurd.
+Having proved that universal doubt is absurd, he concludes that we _can_ be wise—by distinguishing, in the light of reason, between clear and distinct ideas whose source is God, and all others whose source is our own impure imagination.
+Cartesian doubt, we see, is merely a _maieutic_ instrument for producing a criterion of truth and for establishing knowledge and wisdom.
+Yet for the Socrates of the _Apology_, wisdom consisted in the awareness of our limitations;
+in knowing how little we know, every one of us.
+
+It was this doctrine of an essential human fallibility which Nicolas of Cusa and Erasmus of Rotterdam (who refers to Socrates) revived;
+and it was this 'humanist' doctrine (in contradistinction to the optimistic doctrine on which Milton relied, the doctrine that truth will prevail) which Nicolas and Erasmus, Montaigne and Locke and Voltaire, followed by John Stuart Mill and Bertrand Russell, made the basis of the doctrine of tolerance.
+'What is tolerance?' asks Voltaire in his _Philosophical Dictionary_; and he answers:
+'It is a necessary consequence of our humanity.
+We are all fallible, and prone to error;
+let us then pardon each other's folly.
+This is the first principle of natural right.'
+(More recently the doctrine of fallibility has been made the basis of a theory of political freedom; that is, freedom from coercion. See F. A. Hayek, _The Constitution of Liberty_, especially pp. 22 and 29.)
+
+**XI**
+
+Bacon and Descartes set up observation and reason as new authorities, and they set them up within each individual man.
+But in doing so they split man into two parts, into a higher part which had authority with respect to truth—Bacon's observations, Descartes' intellect—and into a lower part.
+It is this low part which constitutes our ordinary selves, the old Adam in us.
+For it is always 'we ourselves' who are alone responsible for error, if truth is manifest.
+It is we, with _our_ prejudices, _our_ negligence, _our_ pigheadedness, who are to blame;
+it is we ourselves who are the sources of our ignorance.
+
+Thus we are split into a human part, we ourselves, the part which is the source of our fallible opinions (_doxa_), of our errors, and of our ignorance;
+and a super-human part, such as the senses or the intellect, the part which is the source of our knowledge (_epistēmē_), and which has an almost divine authority over us.
+
+<!-- page 18 -->
 But this will not do. For we know that Descartes' physics, admirable as it was in many ways, was mistaken; yet it was based only upon ideas which, he thought, were clear and distinct, and which therefore should have been true. And that the senses were not reliable either, and thus had no authority, was well known to the ancients, for example to Heraclitus and Par- menides and Democritus and Plato (but hardly to Epicurus).
 It is strange that this teaching of antiquity could be almost ignored by modern empiricists, including phenomenalists and positivists; yet it is ignored in most of the problems posed by positivists and phenomenalists, and in the solutions they offer. The reason is clear. They still believe that it is not our senses that err, but that it is always 'we ourselves' who err in our interpretation of what is 'given' to us by our senses. Our senses tell the truth, but we may err, for example, when we try to put into language-conventional, man-made, imperfect language-what they tell us. It is our linguistic description which is faulty because it may be tinged by prejudice.
 (So our man-made language was at fault. But then it was discovered that our language too was 'given' to us, in an im- portant sense, and that it should not be blamed for our mistakes; and so language too became a truthful authority that could never deceive us. If we fall into temptation and use language in vain, then it is we who are to blame for the trouble that ensues. For language is a jealous God and will not hold him guiltless that taketh His words in vain, but will throw him into darkness and confusion.)
