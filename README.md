@@ -2,7 +2,7 @@
 
 Sourced from [The British Academy](https://www.thebritishacademy.ac.uk/publishing/proceedings-british-academy/46/popper/), OCRed via [Google Docs](https://docs.google.com), formatted by [Gio Lodi](https://giolodi.com).
 
-Any error is mine. Pull requests with fixes are appreaciated.
+Any error is mine. Pull requests with fixes are appreciated.
 
 ---
 
