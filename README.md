@@ -605,17 +605,33 @@ It should be noted that this particular tenet, though an important part of the e
 This explains why it was accepted by some nominalistic opponents of essentialism, such as Hobbes, or Schlick. (Cf. his _Erkenntnislehre_, 2nd edition, p. 62.)
 
 <!-- page 22 (60) -->
-I think we have now the means at our disposal by which we can explain the logic of the view that questions of origin may decide questions of factual truth. For if origins can determine the true meaning of a term or word, then they can determine the true definition of an important idea, and therefore some at least of the basic principles' underlying our demonstrations and consequently our scientific knowledge. So it will then appear that there are authoritative sources of our knowledge.
-Yet we must realize that essentialism is mistaken in suggesting that definitions can add to our knowledge of facts (although qua decisions about conventions they may be influenced by our knowledge of facts, and although they create instruments which may in their turn influence the formation of our theories and thereby the evolution of our knowledge of facts). Once we see that definitions never state any factual knowledge we also see the break in the logical link between the problem of origin and that of factual truth which some essentialist philosophers tried to forge.
-XIII
+I think we have now the means at our disposal by which we can explain the logic of the view that questions of origin may decide questions of factual truth.
+For if origins can determine the _true meaning_ of a term or word, then they can determine the _true definition_ of an important idea, and therefore some at least of the basic 'principles' underlying our demonstrations and consequently our scientific knowledge.
+_So it will then appear that there are authoritative sources of our knowledge._
+
+Yet we must realize that essentialism is mistaken in suggesting that definitions can add to our _knowledge of facts_ (although _qua_ decisions about conventions they may be influenced by our knowledge of facts, and although they create instruments which may in their turn influence the formation of our theories and thereby the evolution of our knowledge of facts).
+Once we see that definitions never state any factual knowledge we also see the break in the logical link between the problem of origin and that of factual truth which some essentialist philosophers tried to forge.
+
+**XIII**
+
 I will now leave all these largely historical reflections aside, and turn to the problems themselves, and to their solution.
-This part of my lecture might be described as a criticism of empiricism, as formulated for example in the following classical statement of Hume's: 'If I ask you why you believe any parti- cular matter of fact, . . . you must tell me some reason; and this reason will be some other fact, connected with it. But as you cannot proceed after this manner, in infinitum, you must at last terminate in some fact, which is present to your memory or senses; or must allow that your belief is entirely without founda- tion.' (Enquiry Concerning Human Understanding, Section v, Pt. 1; Selby-Bigge, p. 46; see also my motto, taken from Section VII, Pt. 1; p. 62.)
-The problem of the validity of empiricism may be roughly put as follows: is observation the ultimate source of our knowledge of nature? And if not, what are the sources of our knowledge?
-These questions remain, whatever I may have said about Bacon, and even if I should have managed to make those parts of his philosophy on which I have commented somewhat un- attractive for Baconians and for other empiricists.
-The problem of the source of our knowledge has recently been restated as follows. If we make an assertion, we must
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-61
-justify it; but this means that we must be able to answer the following questions.
+
+This part of my lecture might be described as a _criticism of empiricism_, as formulated for example in the following classical statement of Hume's:
+'If I ask you why you believe any particular matter of fact, ... you must tell me some reason;
+and this reason will be some other fact, connected with it.
+But as you cannot proceed after this manner, _in infinitum_, you must at last terminate in some fact, which is present to your memory or senses;
+or must allow that your belief is entirely without foundation.'
+(_Enquiry Concerning Human Understanding_, Section V, Pt. 1; Selby-Bigge, p. 46; see also my motto, taken from Section VII, Pt. 1; p. 62.)
+
+The problem of the validity of empiricism may be roughly put as follows:
+is observation the ultimate source of our knowledge of nature?
+And if not, what are the sources of our knowledge?
+
+These questions remain, whatever I may have said about Bacon, and even if I should have managed to make those parts of his philosophy on which I have commented somewhat unattractive for Baconians and for other empiricists.
+
+The problem of the source of our knowledge has recently been restated as follows.
+If we make an assertion, we must <!-- page 23 (61) --> justify it;
+but this means that we must be able to answer the following questions.
 'How do you know? What are the sources of your assertion? This, the empiricist holds, amounts in its turn to the question, 'What observations (or memories of observations) underlie your
 assertion?"
 I find this string of questions quite unsatisfactory.
