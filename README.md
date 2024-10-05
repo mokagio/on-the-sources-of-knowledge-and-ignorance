@@ -691,14 +691,32 @@ it leads to an infinite regress.
 
 I wish to mention, in parenthesis, that this argument is closely <!-- page 25 (63) --> related to another—that all observation involves interpretation in the light of our theoretical knowledge, or that pure observational knowledge, unadulterated by theory, would, if at all possible, be utterly barren and futile.
 
-The most striking thing about the observationalist programme of asking for sources-apart from its tediousness-is its stark violation of common sense. For if we are doubtful about an assertion, then the normal procedure is to test it, rather than to ask for its sources; and if we find independent corroboration, then we shall often accept the assertion without bothering at all about sources.
-Of course there are cases in which the situation is different. Testing an historical assertion always means going back to sources; but not, as a rule, to the reports of eyewitnesses.
-Clearly, no historian will accept the evidence of documents uncritically. There are problems of genuineness, there are problems of bias, and there are also such problems as the recon- struction of earlier sources. There are, of course, also problems such as: was the writer present when these events happened? But this is not one of the characteristic problems of the historian. He may worry about the reliability of a report, but he will rarely worry about whether or not the writer of a document was an eyewitness of the event in question, even assuming that this event was of the nature of an observable event. A letter saying 'I changed my mind yesterday on this question' may be most valuable historical evidence, even though changes of mind are unobservable (and even though we may conjecture, in view of other evidence, that the writer was lying).
-As to eyewitnesses, they are important almost exclusively in a court of law where they can be cross-examined. As most lawyers know, eyewitnesses often err. This has been experi- mentally investigated, with the most striking results. Witnesses most anxious to describe an event as it happened are liable to make scores of mistakes, especially if some exciting things happen in a hurry; and if an event suggests some tempting interpretation, then this interpretation, more often than not, is allowed to distort what has actually been seen.
-Hume's view of historical knowledge was different: '. . . we believe', he writes in the Treatise (Book 1, Pt. III, sect. iv; Selby- Bigge, p. 83), 'that Caesar was kill'd in the senate-house on the ides of March... because this fact is establish'd on the unanimous testimony of historians, who agree to assign this precise time and place to that event. Here are certain characters and letters
-64
-PROCEEDINGS OF THE BRITISH ACADEMY
-present either to our memory or senses; which characters we likewise remember to have been us'd as the signs of certain ideas; and these ideas were either in the minds of such as were immediately present at that action, and receiv'd the ideas directly from its existence; or they were deriv'd from the testi- mony of others, and that again from another testimony . . . 'till we arrive at those who were eye-witnesses and spectators of the event.' (See also Enquiry, Section x; Selby-Bigge, pp. 111 ff.) It seems to me clear that this view must lead to the infinite regress described above. For the problem is, of course, whether 'the unanimous testimony of historians' is to be accepted, or whether it is, perhaps, to be rejected as the result of their re- liance on a common yet spurious source. The appeal to 'letters present to our memory or our senses' cannot have any bearing on this or on any other relevant problem of historiography.
+The most striking thing about the observationalist programme of asking for sources—apart from its tediousness—is its stark violation of common sense.
+For if we are doubtful about an assertion, then the normal procedure is to test it, rather than to ask for its sources;
+and if we find independent corroboration, then we shall often accept the assertion without bothering at all about sources.
+
+Of course there are cases in which the situation is different.
+Testing an historical assertion always means going back to sources;
+but not, as a rule, to the reports of eyewitnesses.
+
+Clearly, no historian will accept the evidence of documents uncritically.
+There are problems of genuineness, there are problems of bias, and there are also such problems as the reconstruction of earlier sources.
+There are, of course, also problems such as:
+was the writer present when these events happened?
+But this is not one of the characteristic problems of the historian.
+He may worry about the reliability of a report, but he will rarely worry about whether or not the writer of a document was an eyewitness of the event in question, even assuming that this event was of the nature of an observable event.
+A letter saying 'I changed my mind yesterday on this question' may be most valuable historical evidence, even though changes of mind are unobservable (and even though we may conjecture, in view of other evidence, that the writer was lying).
+
+As to eyewitnesses, they are important almost exclusively in a court of law where they can be cross-examined.
+As most lawyers know, eyewitnesses often err.
+This has been experimentally investigated, with the most striking results.
+Witnesses most anxious to describe an event as it happened are liable to make scores of mistakes, especially if some exciting things happen in a hurry;
+and if an event suggests some tempting interpretation, then this interpretation, more often than not, is allowed to distort what has actually been seen.
+
+Hume's view of historical knowledge was different:
+'... we believe', he writes in the _Treatise_ (Book 1, Pt. III, sect. iv; Selby- Bigge, p. 83), 'that Caesar was kill'd in the senate-house on the _ides_ of March... because this fact is establish'd on the unanimous testimony of historians, who agree to assign this precise time and place to that event.
+Here are certain characters and letters <!-- page 26 (64) --> present either to our memory or senses;
+which characters we likewise remember to have been us'd as the signs of certain ideas; and these ideas were either in the minds of such as were immediately present at that action, and receiv'd the ideas directly from its existence; or they were deriv'd from the testi- mony of others, and that again from another testimony . . . 'till we arrive at those who were eye-witnesses and spectators of the event.' (See also Enquiry, Section x; Selby-Bigge, pp. 111 ff.) It seems to me clear that this view must lead to the infinite regress described above. For the problem is, of course, whether 'the unanimous testimony of historians' is to be accepted, or whether it is, perhaps, to be rejected as the result of their re- liance on a common yet spurious source. The appeal to 'letters present to our memory or our senses' cannot have any bearing on this or on any other relevant problem of historiography.
 XIV
 But what, then, are the sources of our knowledge?
 The answer, I think, is this: there are all kinds of sources of our knowledge; but none has authority.
