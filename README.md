@@ -45,7 +45,7 @@ Not only has empiricism, still the ruling doctrine in England, conquered the Uni
 Cartesian intellectualism, alas, has been only too often distorted into one or another of the various forms of modern irrationalism.
 
 I shall try to show in this lecture that the differences between classical empiricism and rationalism are much smaller than their similarities, and that both are mistaken.
-I hold that they are mistaken although I am myself both an empiricist and a ration- alist of sorts.
+I hold that they are mistaken although I am myself both an empiricist and a rationalist of sorts.
 But I believe that, though observation and reason have each an important role to play, these roles hardly resemble those which their classical defenders attributed to them.
 More especially, I shall try to show that neither observation nor reason can be described as a source of knowledge, in the sense in which they have been claimed to be sources of knowledge, down to the present day.
 
@@ -379,7 +379,7 @@ and our impure prejudices must be exorcised by the invocation of counter-instanc
 <!-- page 15 (53) -->
 Only after our souls have been cleansed in this way may we begin the work of spelling out diligently the open book of Nature, the manifest truth.
 
-In view of all this I suggest that Baconian (and also Aristotelian) induction is the same, fundamentally, as Socratic maieutic;
+In view of all this I suggest that Baconian (and also Aristotelian) induction is the same, fundamentally, as Socratic _maieutic_;
 that is to say, the preparation of the mind by cleansing it of prejudices, in order to enable it to recognize the manifest truth, or to read the open book of Nature.
 
 Descartes' method of systematic doubt is also fundamentally the same:
@@ -408,12 +408,12 @@ not so much because they appealed to religious authority—to Nature or to God�
 In spite of their individualistic tendencies, they did not dare to appeal to our critical judgement—to your judgement, or to mine; perhaps because they felt that this might lead to subjectivism and to arbitrariness.
 Yet whatever their reasons may have been, they certainly were unable to get away, though they wanted to do so, from thinking in terms of authority.
 They could only replace one authority—that of Aristotle and the Bible—by another.
-Each of them appealed to a new authority;i
+Each of them appealed to a new authority;
 the one to _the authority of the senses_, and the other to _the authority of the intellect_.
 
 This means that they failed to solve the great problem of how to admit that our knowledge was a human—an all too human—affair, without at the same time implying that it was all individual whim and arbitrariness.
 
-Yet this problem had been seen and solved long ago;i
+Yet this problem had been seen and solved long ago;
 first, it appears, by Xenophanes, and then by Democritus, and by Socrates (the Socrates of the _Apology_ rather than of the _Meno_).
 The solution lies in the realization that all of us may and often do err, singly and collectively, but that this very idea of error involves another one—the idea of an objective truth:
 the standard which we may fall short of.
