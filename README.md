@@ -827,19 +827,36 @@ But if you are interested in the problem which I tried to solve by my tentative 
 and if you can design some experimental test which you think might refute my assertion, I shall gladly, and to the best of my powers, help you to refute it.'
 
 <!-- page 30 (68) -->
-This answer1 applies, strictly speaking, only if the question is asked about some scientific assertion as distinct from an historical one. If my conjecture was an historical one, sources (in the non- ultimate sense) will of course come into the critical discussion of its validity. Yet fundamentally, my answer will be the same, as we have seen.
-XVI
+This answer<sup>2</sup> applies, strictly speaking, only if the question is asked about some scientific assertion as distinct from an historical one.
+If my conjecture was an historical one, sources (in the non-ultimate sense) will of course come into the critical discussion of its validity.
+Yet fundamentally, my answer will be the same, as we have seen.
+
+**XVI**
+
 It is high time now, I think, to formulate the epistemological results of this discussion. I will put them in the form of nine theses.
-1. There are no ultimate sources of knowledge. Every source, every suggestion, is welcome; and every source, every suggestion, is open to critical examination. Except in history, we usually examine the facts themselves rather than the sources of our information.
-2. The proper epistemological question is not one about sources; rather, we ask whether the assertion made is true- that is to say, whether it agrees with the facts. (That we can work, without getting involved in antinomies, with a notion of objective truth in the sense of correspondence to the facts, has been shown by the work of Alfred Tarski.) And we try to find this out, as well as we can, by examining or testing the assertion itself; either in a direct way, or by examining or testing its con-
-sequences.
-3. In connexion with this examination, all kinds of arguments may be relevant. A typical procedure is to examine whether our theories are consistent with our observations. But we may also examine, for example, whether our historical sources are internally consistent.
-4. Quantitatively and qualitatively by far the most important source of our knowledge-apart from inborn knowledge-is tradition. Most things we know we have learned by example, by being told, by reading books, by learning how to criticize, how to take and to accept criticism, how to respect truth.
-5. The fact that most of the sources of our knowledge are traditional condemns anti-traditionalism as futile. But this fact must not be held to support a traditionalist attitude: every bit of our traditional knowledge (and even our inborn knowledge) is
-1 This answer, and almost the whole of the contents of the present section xv, are taken with only minor changes from a paper of mine which was first published in The Indian Journal of Philosophy, i, No. 1, 1959.
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-69
-open to critical examination and may be overthrown. Never- theless, without tradition, knowledge would be impossible.
+
+<!-- wrap numbers in 'span' to avoid parsing as ordered list -->
+<span>1.</span> There are no ultimate sources of knowledge.
+Every source, every suggestion, is welcome;
+and every source, every suggestion, is open to critical examination.
+Except in history, we usually examine the facts themselves rather than the sources of our information.
+
+<spa>2.</span> The proper epistemological question is not one about sources;
+rather, we ask whether the assertion made is true— that is to say, whether it agrees with the facts.
+(That we can work, without getting involved in antinomies, with a notion of objective truth in the sense of correspondence to the facts, has been shown by the work of Alfred Tarski.)
+And we try to find this out, as well as we can, by examining or testing the assertion itself;
+either in a direct way, or by examining or testing its consequences.
+
+<span>3.</span> In connexion with this examination, all kinds of arguments may be relevant.
+A typical procedure is to examine whether our theories are consistent with our observations.
+But we may also examine, for example, whether our historical sources are internally consistent.
+
+<span>4.</span> Quantitatively and qualitatively by far the most important source of our knowledge—apart from inborn knowledge—is tradition.
+Most things we know we have learned by example, by being told, by reading books, by learning how to criticize, how to take and to accept criticism, how to respect truth.
+
+<span>5.</span> The fact that most of the sources of our knowledge are traditional condemns anti-traditionalism as futile.
+But this fact must not be held to support a traditionalist attitude:
+every bit of our traditional knowledge (and even our inborn knowledge) is <!-- page 31 (69) --> open to critical examination and may be overthrown. Never- theless, without tradition, knowledge would be impossible.
 6. Knowledge cannot start from nothing-from a tabula rasa- nor yet from observation. The advance of knowledge consists, mainly, in the modification of earlier knowledge. Although we. may sometimes, for example in archaeology, advance through a chance observation, the significance of the discovery will usually depend upon its power to modify our earlier theories.
 7. Pessimistic and optimistic epistemologies are about equally mistaken. The pessimistic cave story of Plato is the true one, and not his optimistic story of anamnesis (even though we should admit that all men, like all other animals, and even all plants, possess inborn knowledge). But although the world of appear- ances is indeed a world of mere shadows on the walls of our cave, we all constantly reach out beyond it; and although, as Democritus said, the truth is hidden in the deep, we can probe into the deep. There is no criterion of truth at our disposal, and this fact supports pessimism. But we do possess criteria which, if we are lucky, often allow us to recognize error and falsity. Clarity and distinctness are not criteria of truth, but such things as obscurity and confusion indicate error. Similarly, coherence does not establish truth, but incoherence and inconsistency establish falsehood. And, when they are recognized, our own errors provide the dim red lights which help us in feeling our way out of the dark of our cave.
 8. Neither observation nor reason are authorities. Intellectual intuition and imagination are most important, but they are not reliable: they may show us things very clearly, and yet they may mislead us. They are indispensable as the main sources of our theories; but most of our theories are false anyway. The most important function of observation and reasoning, and even of intuition and imagination, is to help us in the critical examina- tion of those bold conjectures which are the means by which we probe into the unknown.
@@ -864,3 +881,5 @@ What we should do, I suggest, is to give up the idea of ultimate sources of know
 ---
 
 <sup>1</sup> DK = Diels-Kranz, _Framente der Vorosokratiker.
+
+<sup>2</sup> This answer, and almost the whole of the contents of the present section XV, are taken with only minor changes from a paper of mine which was first published in _The Indian Journal of Philosophy_, i, No. 1, 1959.
