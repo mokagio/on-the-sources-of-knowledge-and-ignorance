@@ -387,15 +387,31 @@ and our impure prejudices must be exorcised by the invocation of counter-instanc
 
 <!-- page 15 -->
 Only after our souls have been cleansed in this way may we begin the work of spelling out diligently the open book of Nature, the manifest truth.
-In view of all this I suggest that Baconian (and also Aristo- telian) induction is the same, fundamentally, as Socratic maieutic; that is to say, the preparation of the mind by cleansing it of prejudices, in order to enable it to recognize the manifest truth, or to read the open book of Nature.
-Descartes' method of systematic doubt is also fundamentally the same: it is a method of destroying all false prejudices of the mind, in order to arrive at the unshakable basis of self-evident truth.
-We can now see more clearly how, in this optimistic epistemo- logy, the state of knowledge is the natural or the pure state of man, the state of the innocent eye which can see the truth, while the state of ignorance has its source in the injury suffered by the innocent eye in man's fall from grace; an injury which can be partially healed by a course of purification. And we can see more clearly why this epistemology, not only in Descartes' but also in Bacon's form, remains essentially a religious doctrine in which the source of all knowledge is divine authority.
-One might say that, encouraged by the divine 'essences' or divine 'natures' of Plato, and by the traditional Greek opposition between the truthfulness of nature and the deceitfulness of man- made convention, Bacon substitutes, in his epistemology, 'Nature' for 'God'. This may be the reason why we have to purify ourselves before we may approach the goddess Natura: when we have purified our minds, even our sometimes unreliable senses (held by Plato to be hopelessly impure) will be pure. The sources of knowledge must be kept pure, because any im- purity may become a source of ignorance.
-X
-In spite of the religious character of their epistemologies, Bacon's and Descartes' attacks upon prejudice, and upon tradi- tional beliefs which we carelessly or recklessly harbour, are clearly anti-authoritarian and anti-traditionalist. For they re- quire us to shed all beliefs except those whose truth we have perceived ourselves. And their attacks were certainly intended to be attacks upon authority and tradition. They were part of the war against authority which it was the fashion of the time to wage, the war against the authority of Aristotle and the tradition
-54
-PROCEEDINGS OF THE BRITISH ACADEMY
-of the schools. Men do not need such authorities if they can perceive the truth themselves.
+
+In view of all this I suggest that Baconian (and also Aristotelian) induction is the same, fundamentally, as Socratic maieutic;
+that is to say, the preparation of the mind by cleansing it of prejudices, in order to enable it to recognize the manifest truth, or to read the open book of Nature.
+
+Descartes' method of systematic doubt is also fundamentally the same:
+it is a method of destroying all false prejudices of the mind, in order to arrive at the unshakable basis of self-evident truth.
+
+We can now see more clearly how, in this optimistic epistemology, the state of knowledge is the natural or the pure state of man, the state of the innocent eye which can see the truth, while the state of ignorance has its source in the injury suffered by the innocent eye in man's fall from grace;
+an injury which can be partially healed by a course of purification.
+And we can see more clearly why this epistemology, not only in Descartes' but also in Bacon's form, remains essentially a religious doctrine in which the source of all knowledge is divine authority.
+
+One might say that, encouraged by the divine 'essences' or divine 'natures' of Plato, and by the traditional Greek opposition between the truthfulness of nature and the deceitfulness of man-made convention, Bacon substitutes, in his epistemology, 'Nature' for 'God'.
+This may be the reason why we have to purify ourselves before we may approach the goddess _Natura_:
+when we have purified our minds, even our sometimes unreliable senses (held by Plato to be hopelessly impure) will be pure.
+The sources of knowledge must be kept pure, because any impurity may become a source of ignorance.
+
+**X**
+
+In spite of the religious character of their epistemologies, Bacon's and Descartes' attacks upon prejudice, and upon traditional beliefs which we carelessly or recklessly harbour, are clearly anti-authoritarian and anti-traditionalist.
+For they require us to shed all beliefs except those whose truth we have perceived ourselves.
+And their attacks were certainly intended to be attacks upon authority and tradition.
+They were part of the war against authority which it was the fashion of the time to wage, the war against the authority of Aristotle and the tradition of the schools.
+Men do not need such authorities if they can perceive the truth themselves.
+
+<!-- page 16 -->
 But I do not think that Bacon and Descartes succeeded in freeing their epistemologies from authority; not so much because they appealed to religious authority-to Nature or to God- but for an even deeper reason.
 In spite of their individualistic tendencies, they did not dare to appeal to our critical judgement-to your judgement, or to mine; perhaps because they felt that this might lead to sub- jectivism and to arbitrariness. Yet whatever their reasons may have been, they certainly were unable to get away, though they wanted to do so, from thinking in terms of authority. They could only replace one authority-that of Aristotle and the Bible-by another. Each of them appealed to a new authority; the one to the authority of the senses, and the other to the authority of the intellect.
 This means that they failed to solve the great problem of how to admit that our knowledge was a human-an all too human- affair, without at the same time implying that it was all indi- vidual whim and arbitrariness.
