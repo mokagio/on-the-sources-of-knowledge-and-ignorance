@@ -56,8 +56,8 @@ Hume, for example, one of the greatest thinkers in the field, predicted that, be
 
 Kant's attitude was different.
 He thought that the problem 'What can I know?' was one of the three most important questions a man could ask.
-Bertrand Russell, in spite of being closer to Hume in philosophic temperament, seems to side in this matter with Kant. And I believe that Russell is right when he attributes to epistemology practical consequences for science, for ethics, and even for politics.
-<!-- page 3 -->
+Bertrand Russell, in spite of being closer to Hume in philosophic temperament, seems to side in this matter with Kant.
+And I believe that Russell is right when he <!-- page 3 --> attributes to epistemology practical consequences for science, for ethics, and even for politics.
 He points out, for example, that epistemological relativism, or the idea that there is no such thing as objective truth, and epistemological pragmatism, or the idea that truth is the same as usefulness, are closely linked with authoritarian and totalitarian ideas.
 
 Russell's views are of course disputed.
@@ -99,8 +99,7 @@ For we can interpret traditionalism as the belief that, in the absence of an obj
 
 **IV**
 
-<!-- page 5 -->
-It is a disturbing fact that even an abstract study like pure epistemology is not as pure as one might think (and as Aristotle believed) but that its ideas may, to a large extent, be motivated and unconsciously inspired by political hopes and by Utopian dreams.
+It is a disturbing fact that even an abstract study like pure epistemology is not as pure as one might think (and as Aristotle believed) but that its ideas may, to a large extent, be motivated and unconsciously inspired by political hopes and by Utopian <!-- page 5 --> dreams.
 This should be a warning to the epistemologist.
 What can he do about it?
 As an epistemologist I have only one interest -to find out the truth about the problems of epistemology, whether or not this truth fits in with my political ideas.
@@ -128,10 +127,9 @@ We have been given eyes to see the truth, and the light of reason to see it by.
 This doctrine is at the heart of the teaching of both Descartes and Bacon.
 Descartes based his optimistic epistemology on the important theory of the _veracitas dei_.
 What we clearly and distinctly see to be true must indeed be true;
-for otherwise God would be deceiving us.
+for otherwise God <!-- page 6 --> would be deceiving us.
 Thus the truthfulness of God must make truth manifest.
 
-<!-- page 6 -->
 In Bacon we have a similar doctrine.
 It might be described as the doctrine of the _veracitas naturae_, the truthfulness of Nature.
 Nature is an open book.
@@ -159,10 +157,9 @@ This curious belief in a conspiracy is the almost inevitable consequence of the 
 (_Areopagitica_).
 So when Milton's Truth was put to the worse, the necessary inference was that the encounter had not been free and open:
 if the manifest truth does not prevail, it must have been maliciously suppressed.
-One can see that an attitude of tolerance which is based upon an optimistic faith in the victory of truth may easily be shaken. (See J. W. N. Watkins on Milton in _The Listener_, 22 January
-1959.) For it is liable to turn into a conspiracy theory which would be hard to reconcile with an attitude of tolerance.
+One can see that an attitude of tolerance which is based upon an optimistic faith in the victory of truth may easily be shaken. (See J. W. N. Watkins on Milton in _The Listener_, 22 January <!-- page 7 --> 1959.)
+For it is liable to turn into a conspiracy theory which would be hard to reconcile with an attitude of tolerance.
 
-<!-- page 7 -->
 I do not assert that there was never a grain of truth in this conspiracy theory.
 But in the main it was a myth, just as the theory of manifest truth from which it grew was a myth.
 
@@ -191,14 +188,12 @@ The theory that truth is manifest—that it is there for everyone to see, if onl
 For only the most depraved wickedness can refuse to see the manifest truth;
 only those who have every reason to fear truth can deny it, and conspire to suppress it.
 
-<!-- page 8 -->
-Yet the theory that truth is manifest not only breeds fanatics—men possessed by the conviction that all those who do not see the manifest truth must be possessed by the devil—but it may also lead, though perhaps less directly than does a pessimistic epistemology, to authoritarianism.
+Yet the theory that truth is manifest not only breeds fanatics—men possessed by the conviction that all those who do not see the manifest truth must be possessed by the devil—but it may also lead, though perhaps less directly than does a pessimistic <!-- page 8 --> epistemology, to authoritarianism.
 This is so, simply, because truth is not manifest, as a rule.
 The allegedly manifest truth is therefore in constant need, not only of interpretation and affirmation, but also of re-interpretation and re-affirmation.
 An authority is required to pronounce upon, and lay down, almost from day to day, what is to be the manifest truth, and it may learn to do so arbitrarily and cynically.
 So many disappointed epistemologists will turn away from their own former optimism and erect a resplendent authoritarian theory on the basis of a pessimistic epistemology.
 It seems to me that the greatest epistemologist of all, Plato, exemplifies this tragic development.
-
 
 **VII**
 
@@ -222,10 +217,9 @@ So does Homer for such subjects as the Catalogue of the Greek army.'
 
 As this quotation shows, the poets were in the habit of claiming not only divine sources of inspiration, but also divine sources of knowledge—divine guarantors of the truth of their stories.
 
-<!-- page 9 -->
 Precisely the same two claims were raised by the philosophers Heraclitus and Parmenides.
 Heraclitus, it seems, sees himself as a prophet who 'talks with raving mouth, ... possessed by the god' by Zeus, the source of all wisdom (DK,<sup>1</sup> B, 92, 32; cf. 93, 41, 64, 50).
-And Parmenides, one could almost say, forms the missing link between Homer or Hesiod on the one side and Descartes on the other.
+And Parmenides, one could almost say, forms the missing link between Homer or Hesiod on the one side <!-- page 9 --> and Descartes on the other.
 His guiding star and inspiration is the goddess Dike, described by Heraclitus (DK, B, 28) as the guardian of truth.
 Parmenides describes her as the guardian and keeper of the keys of truth, and as the source of all his knowledge.
 But Parmenides and Descartes have more in common than the doctrine of divine veracity.
@@ -280,8 +274,7 @@ Thus we find in Plato the first development from an optimistic to a pessimistic 
 Each of them forms the basis of one of the two diametrically opposed philosophies of the state and of society:
 on the one hand an anti-traditionalist, anti- authoritarian, revolutionary and Utopian rationalism of the Cartesian kind, and on the other hand an authoritarian traditionalism.
 
-<!-- page 11 -->
-This development is likely to be connected with the fact that the idea of an epistemological fall of man can be interpreted not only in the sense of the optimistic doctrine of _anamnesis_, but also in a pessimistic sense.
+This development is likely to be connected with the fact that <!-- page 11 --> the idea of an epistemological fall of man can be interpreted not only in the sense of the optimistic doctrine of _anamnesis_, but also in a pessimistic sense.
 
 In this latter interpretation, the fall of man condemns all mortals—or almost all—to ignorance.
 I think one can discern in the story of the cave (and perhaps also in the story of the fall of the city, when the Muses and their divine teaching are neglected; see _Republic_ 546D) an echo of an interesting older form of this idea.
@@ -329,11 +322,10 @@ Fundamentally the same procedure is part of Bacon's induction.
 
 **IX**
 
-<!-- page 13 -->
 The framework of Bacon's theory of induction is this.
 He distinguishes in the _Novum Organum_ between a true method and a false method.
 His name for the true method, '_interpretatio naturae_', is ordinarily translated by the phrase 'interpretation of nature', and his name for the false method, '_anticipatio mentis_', by 'anticipation of the mind'.
-Obvious as these translations may seem, they are not adequate.
+Obvious as these translations may seem, <!-- page 13 --> they are not adequate.
 What Bacon means by '_interpretatio naturae_' is, I suggest, the reading of, or better still, the spelling out of the book of Nature.
 (Galileo, in a famous passage of his _Il saggiatore_, section 6, of which Mario Bunge has kindly reminded me, speaks of 'that great book which lies before our eyes—I mean the universe'; cf. Descartes' _Discourse_, section 1.)
 
@@ -354,11 +346,10 @@ _Interpretatio juris_ (or _legis_) means either this or, alternatively, the expo
 It leaves the legal interpreter no latitude;
 at any rate no more than would be allowed to, say, a sworn interpreter translating a French legal document.
 
-<!-- page 14 -->
 Thus the translation 'the interpretation of nature' is misleading;
 it should be replaced by something like 'the (true) reading of nature';
 analogous to 'the (true) reading of the law'.
-And I suggest that 'reading the book of Nature as it is' or better still 'spelling out the book of Nature' is what Bacon meant.
+And I suggest that 'reading the book of Nature as it is' or better <!-- page 14 --> still 'spelling out the book of Nature' is what Bacon meant.
 The point is that the phrase should suggest the avoidance of all interpretation in the modern sense, and that it should not contain, more especially, any suggestion of an attempt to interpret what' is manifest in nature in the light of non-manifest causes or of hypotheses;
 for all this would be an _anticipatio mentis_, in Bacon's sense.
 (It is a mistake, I think, to ascribe to Bacon the teaching that hypotheses or conjectures-may be the result of his method of induction; for Baconian induction results in knowledge rather than in conjecture.)
@@ -408,10 +399,9 @@ The sources of knowledge must be kept pure, because any impurity may become a so
 In spite of the religious character of their epistemologies, Bacon's and Descartes' attacks upon prejudice, and upon traditional beliefs which we carelessly or recklessly harbour, are clearly anti-authoritarian and anti-traditionalist.
 For they require us to shed all beliefs except those whose truth we have perceived ourselves.
 And their attacks were certainly intended to be attacks upon authority and tradition.
-They were part of the war against authority which it was the fashion of the time to wage, the war against the authority of Aristotle and the tradition of the schools.
+They were part of the war against authority which it was the fashion of the time to wage, the war against the authority of Aristotle and the tradition <!-- page 16 --> of the schools.
 Men do not need such authorities if they can perceive the truth themselves.
 
-<!-- page 16 -->
 But I do not think that Bacon and Descartes succeeded in freeing their epistemologies from authority;
 not so much because they appealed to religious authority—to Nature or to God—but for an even deeper reason.
 
@@ -433,10 +423,9 @@ This doctrine implies that we may seek for truth, for objective truth, even thou
 Erasmus of Rotterdam attempted to revive this Socratic doctrine, the all important though unobtrusive doctrine, 'Know thyself, and thus admit to thyself how little thou knowest!'
 Yet this doctrine was swept away by the theory that truth is manifest, and by the new self-assurance exemplified and taught in different ways by Luther, Bacon, and Descartes.
 
-<!-- page 17 -->
 It is important to realize, in this connexion, the difference between Cartesian doubt and the doubt of Socrates, or Erasmus, or Montaigne.
 While Socrates doubts human knowledge or wisdom, and remains firm in his rejection of any pretension to knowledge or wisdom, Descartes doubts everything but only to end up with the possession of absolutely certain knowledge;
-for he finds that his universal doubt would lead him to doubt the truthfulness of God, which is absurd.
+for he finds that his universal doubt would lead him to doubt the <!-- page 17 --> truthfulness of God, which is absurd.
 Having proved that universal doubt is absurd, he concludes that we _can_ be wise—by distinguishing, in the light of reason, between clear and distinct ideas whose source is God, and all others whose source is our own impure imagination.
 Cartesian doubt, we see, is merely a _maieutic_ instrument for producing a criterion of truth and for establishing knowledge and wisdom.
 Yet for the Socrates of the _Apology_, wisdom consisted in the awareness of our limitations;
