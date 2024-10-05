@@ -885,19 +885,36 @@ the more so the deeper the original problem and the bolder its solution.
 The more we learn about the world, and the deeper our learning, the more conscious, specific, and articulate will be our knowledge of what we do not know, our knowledge of our ignorance.
 For this, indeed, is the true source of our ignorance—the fact that our knowledge can only be finite, while our ignorance must necessarily be infinite.
 
-We may get a glimpse of the vastness of our ignorance when <!-- page 32 (70) -->
-70
-PROCEEDINGS OF THE BRITISH ACADEMY
-we contemplate the vastness of the heavens: though the mere size of the universe is not the deepest cause of our ignorance, it is one of its causes. 'Where I seem to differ from some of my friends', F. P. Ramsey wrote in a charming passage of his Foundations of Mathematics (p. 291), 'is in attaching little im- portance to physical size. I don't feel in the least humble before the vastness of the heavens. The stars may be large but they cannot think or love; and these are qualities which impress me far more than size does. I take no credit for weighing nearly seventeen stones.' I suspect that Ramsey's friends would have agreed with him about the insignificance of sheer physical size; and I suspect that if they felt humble before the vastness of the heavens, this was because they saw in it a symbol of their ignorance.
-I believe that it would be worth trying to learn something about the world even if we merely learnt that we do not know much. This state of learned ignorance might be a help in many of our troubles. It might be well to remember that, while differing widely in the various little bits we know, in our infinite ignorance we are all equal.
-XVII
+We may get a glimpse of the vastness of our ignorance when <!-- page 32 (70) --> we contemplate the vastness of the heavens:
+though the mere size of the universe is not the deepest cause of our ignorance, it is one of its causes.
+'Where I seem to differ from some of my friends', F. P. Ramsey wrote in a charming passage of his _Foundations of Mathematics_ (p. 291), 'is in attaching little importance to physical size.
+I don't feel in the least humble before the vastness of the heavens.
+The stars may be large but they cannot think or love; and these are qualities which impress me far more than size does.
+I take no credit for weighing nearly seventeen stones.'
+I suspect that Ramsey's friends would have agreed with him about the insignificance of sheer physical size;
+and I suspect that if they felt humble before the vastness of the heavens, this was because they saw in it a symbol of their ignorance.
+
+I believe that it would be worth trying to learn something about the world even if we merely learnt that we do not know much.
+This state of learned ignorance might be a help in many of our troubles.
+It might be well to remember that, while differing widely in the various little bits we know, in our infinite ignorance we are all equal.
+
+**XVII**
+
 There is a last question I wish to raise.
-If only we look for it we can often find a true idea, worthy of being preserved, in a philosophical theory which we must reject as false. Can we find an idea like this in one of the theories of the ultimate sources of our knowledge?
-I believe we can; and I suggest that it is one of the two main ideas which underlie the doctrine that the source of all our know- ledge is super-natural. The first of these ideas is false, I believe, while the second is true.
-The first, the false idea, is that we must justify our knowledge, or our theories, by positive reasons, that is, by reasons capable of establishing them, or at least of making them highly probable; at any rate, by better reasons than that they have withstood criticism. This idea implies, as I suggested, that we must appeal to some ultimate or authoritative source of true knowledge; which still leaves open the character of that authority-whether it is human, like observation or reason, or super-human (and therefore super-natural).
-The second idea-whose vital importance has been stressed by Russell is that no man's authority can establish truth by
-71
-THE SOURCES OF KNOWLEDGE AND IGNORANCE decree; that we should submit to truth; that truth is above human authority.
+
+If only we look for it we can often find a true idea, worthy of being preserved, in a philosophical theory which we must reject as false.
+Can we find an idea like this in one of the theories of the ultimate sources of our knowledge?
+
+I believe we can;
+and I suggest that it is one of the two main ideas which underlie the doctrine that the source of all our knowledge is super-natural.
+The first of these ideas is false, I believe, while the second is true.
+
+The first, the false idea, is that we must justify our knowledge, or our theories, by _positive_ reasons, that is, by reasons capable of establishing them, or at least of making them highly probable;
+at any rate, by better reasons than that they have withstood criticism.
+This idea implies, as I suggested, that we must appeal to some ultimate or authoritative source of true knowledge;
+which still leaves open the character of that authority—whether it is human, like observation or reason, or super-human (and therefore super-natural).
+
+The second idea—whose vital importance has been stressed by Russell—is that no man's authority can establish truth by <!-- page 33 (71) --> decree; that we should submit to truth; that truth is above human authority.
 Taken together these two ideas almost immediately yield the conclusion that the sources from which our knowledge derives must be super-human; a conclusion which tends to encourage self-righteousness and the use of force against those who refuse to see the divine truth.
 Some who rightly reject this conclusion do not, unhappily, reject the first idea-the belief in the existence of ultimate sources of knowledge. Instead they reject the second idea-the thesis that truth is above human authority. They thereby en- danger the idea of the objectivity of knowledge, and of common standards of criticism or rationality.
 What we should do, I suggest, is to give up the idea of ultimate sources of knowledge, and admit that all knowledge is human; that it is mixed with our errors, our prejudices, our dreams, and our hopes; that all we can do is to grope for truth even though it be beyond our reach. We may admit that our groping is often inspired, but we must be on our guard against the belief, however deeply felt, that our inspiration carries any authority, divine or otherwise. If we thus admit that there is no authority beyond the reach of criticism to be found within the whole province of our knowledge, however far it may have penetrated into the unknown, then we can retain, without danger, the idea that truth is beyond human authority. And we must retain it; for without this idea there can be no objective standards of inquiry; no criticism of our conjectures; no groping for the unknown; no quest for knowledge.
