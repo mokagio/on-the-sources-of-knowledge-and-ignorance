@@ -743,18 +743,32 @@ But it is not a source in any ultimate sense.
 It has always to be checked:
 as in the example of the news in _The Times_ we do not, as a rule, question the eyewitness of an experiment, but, if we doubt the result, we may repeat the experiment, or ask somebody else to repeat it.
 
-The fundamental mistake made by the philosophical theory of the ultimate sources of our knowledge is that it does not distinguish clearly enough between questions of origin and <!-- page 27 (65) --> questions of validity. Admittedly, in the case of historiography, these two questions may sometimes coincide. The question of the validity of an historical assertion may be testable only, or mainly, in the light of the origin of certain sources. But in general the two questions are different; and in general we do not test the validity of an assertion or information by tracing its sources or its origin, but we test them, much more directly, by a critical examination of what has been asserted-of the asserted facts themselves.
-Thus the empiricist's questions 'How do you know? What is the source of your assertion?' are wrongly put. They are not formulated in an inexact or slovenly manner, but they are entirely misconceived: they are questions that beg for an authoritarian
-answer.
-XV
-The traditional systems of epistemology may be said to result from yes-answers or no-answers to the questions about the sources of knowledge. They never challenge these questions, or dispute their legitimacy: the questions are taken as perfectly natural, and nobody seems to see any harm in them.
-This is quite interesting, for these questions are clearly authoritarian in spirit. They can be compared with that tradi- tional question of political theory, 'Who should rule?', which begs for an authoritarian answer such as 'the best', or 'the wisest', or 'the people', or 'the majority'. (It suggests, incident- ally, such silly alternatives as 'Whom do you want as rulers: the capitalists or the workers?', analogous to 'What is the ultimate source of knowledge: the intellect or the senses?') This political question is wrongly put and the answers which it elicits are paradoxical (as I have tried to show in Chapter 7 of my Open Society). It should be replaced by a completely different question such as 'How can we organize our political institutions so that bad or incompetent rulers (whom we should try not to get, but whom we so easily might get all the same) cannot do too much damage?' I believe that only by changing our question in this way can we hope to proceed towards a reasonable theory of political institutions.
-The question about the sources of our knowledge can be replaced in a similar way. It has always been asked in the spirit of: 'What are the best sources of our knowledge-the most reliable ones, those which will not lead us into error, and those
-B 9105
-F
-66
-PROCEEDINGS OF THE BRITISH ACADEMY
-to which we can and must turn, in case of doubt, as the last court of appeal?' I propose to assume, instead, that no such ideal sources exist—no more than ideal rulers-and that all 'sources' are liable to lead us into error at times. And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?'
+The fundamental mistake made by the philosophical theory of the ultimate sources of our knowledge is that it does not distinguish clearly enough between questions of origin and <!-- page 27 (65) --> questions of validity.
+Admittedly, in the case of historiography, these two questions may sometimes coincide.
+The question of the validity of an historical assertion may be testable only, or mainly, in the light of the origin of certain sources.
+But in general the two questions are different;
+and in general we do not test the validity of an assertion or information by tracing its sources or its origin, but we test them, much more directly, by a critical examination of what has been asserted-of the asserted facts themselves.
+
+Thus the empiricist's questions 'How do you know? What is the source of your assertion?' are wrongly put.
+They are not formulated in an inexact or slovenly manner, but they are entirely misconceived:
+they are questions that beg for an authoritarian answer.
+
+**XV**
+
+The traditional systems of epistemology may be said to result from yes-answers or no-answers to the questions about the sources of knowledge.
+_They never challenge these questions, or dispute their legitimacy_:
+the questions are taken as perfectly natural, and nobody seems to see any harm in them.
+
+This is quite interesting, for these questions are clearly authoritarian in spirit.
+They can be compared with that traditional question of political theory, 'Who should rule?', which begs for an authoritarian answer such as 'the best', or 'the wisest', or 'the people', or 'the majority'.
+(It suggests, incidentally, such silly alternatives as 'Whom do you want as rulers: the capitalists or the workers?', analogous to 'What is the ultimate source of knowledge: the intellect or the senses?')
+This political question is wrongly put and the answers which it elicits are paradoxical (as I have tried to show in Chapter 7 of my _Open Society_).
+It should be replaced by a completely different question such as '_How can we organize our political institutions so that bad or incompetent rulers_ (whom we should try not to get, but whom we so easily might get all the same) _cannot do too much damage?_'
+I believe that only by changing our question in this way can we hope to proceed towards a reasonable theory of political institutions.
+
+The question about the sources of our knowledge can be replaced in a similar way.
+It has always been asked in the spirit of:
+'What are the best sources of our knowledge—the most reliable ones, those which will not lead us into error, and those <!-- page 28 (66) --> to which we can and must turn, in case of doubt, as the last court of appeal?' I propose to assume, instead, that no such ideal sources exist—no more than ideal rulers-and that all 'sources' are liable to lead us into error at times. And I propose to replace, therefore, the question of the sources of our knowledge by the entirely different question: 'How can we hope to detect and eliminate error?'
 The question of the sources of our knowledge, like so many authoritarian questions, is a genetic one. It asks for the origin of our knowledge, in the belief that knowledge may legitimize itself by its pedigree. The nobility of the racially pure know- ledge, the untainted knowledge, the knowledge which derives from the highest authority, if possible from God: these are the (often unconscious) metaphysical ideas behind the question. My modified question, 'How can we hope to detect error?' may be said to derive from the view that such pure, untainted and certain sources do not exist, and that questions of origin or of purity should not be confounded with questions of validity, or of truth. This view may be said to be as old as Xenophanes. Xenophanes knew that our knowledge is guesswork, opinion- doxa rather than _epistēmē_-as shown by his verses (DK, B, 18 and 34):
 The gods did not reveal, from the beginning,
 All things to us; but in the course of time,
