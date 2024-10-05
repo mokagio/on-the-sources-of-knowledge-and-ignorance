@@ -716,16 +716,34 @@ and if an event suggests some tempting interpretation, then this interpretation,
 Hume's view of historical knowledge was different:
 '... we believe', he writes in the _Treatise_ (Book 1, Pt. III, sect. iv; Selby- Bigge, p. 83), 'that Caesar was kill'd in the senate-house on the _ides_ of March... because this fact is establish'd on the unanimous testimony of historians, who agree to assign this precise time and place to that event.
 Here are certain characters and letters <!-- page 26 (64) --> present either to our memory or senses;
-which characters we likewise remember to have been us'd as the signs of certain ideas; and these ideas were either in the minds of such as were immediately present at that action, and receiv'd the ideas directly from its existence; or they were deriv'd from the testi- mony of others, and that again from another testimony . . . 'till we arrive at those who were eye-witnesses and spectators of the event.' (See also Enquiry, Section x; Selby-Bigge, pp. 111 ff.) It seems to me clear that this view must lead to the infinite regress described above. For the problem is, of course, whether 'the unanimous testimony of historians' is to be accepted, or whether it is, perhaps, to be rejected as the result of their re- liance on a common yet spurious source. The appeal to 'letters present to our memory or our senses' cannot have any bearing on this or on any other relevant problem of historiography.
-XIV
+which characters we likewise remember to have been us'd as the signs of certain ideas;
+and these ideas were either in the minds of such as were immediately present at that action, and receiv'd the ideas directly from its existence;
+or they were deriv'd from the testimony of others, and that again from another testimony ... 'till we arrive at those who were eye-witnesses and spectators of the event.'
+(See also _Enquiry_, Section x; Selby-Bigge, pp. 111 ff.)
+It seems to me clear that this view must lead to the infinite regress described above.
+For the problem is, of course, whether 'the unanimous testimony of historians' is to be accepted, or whether it is, perhaps, to be rejected as the result of their reliance on a common yet spurious source.
+The appeal to 'letters present to our memory or our senses' cannot have any bearing on this or on any other relevant problem of historiography.
+
+**XIV**
+
 But what, then, are the sources of our knowledge?
-The answer, I think, is this: there are all kinds of sources of our knowledge; but none has authority.
-We may say that _The Times_ can be a source of knowledge, or the Encyclopaedia Britannica. We may say that certain papers in the Physical Review about a problem in physics have more author- ity, and are more of the character of a source, than an article about the same problem in _The Times_ or the Encyclopaedia. But it would be quite wrong to say that the source of the article in the Physical Review must have been wholly, or even partly, observa- tion. The source may well be the discovery of an inconsistency in another paper, or say, the discovery of the fact that a hypothesis proposed in another paper could be tested by such and such an experiment; all these non-observational discoveries are 'sources' in the sense that they all add to our knowledge.
-I do not, of course, deny that an experiment may also add to our knowledge, and in a most important manner. But it is not a source in any ultimate sense. It has always to be checked: as in the example of the news in _The Times_ we do not, as a rule, question the eyewitness of an experiment, but, if we doubt the result, we may repeat the experiment, or ask somebody else to repeat it.
-The fundamental mistake made by the philosophical theory of the ultimate sources of our knowledge is that it does not distinguish clearly enough between questions of origin and ques-
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-65
-tions of validity. Admittedly, in the case of historiography, these two questions may sometimes coincide. The question of the validity of an historical assertion may be testable only, or mainly, in the light of the origin of certain sources. But in general the two questions are different; and in general we do not test the validity of an assertion or information by tracing its sources or its origin, but we test them, much more directly, by a critical examination of what has been asserted-of the asserted facts themselves.
+
+The answer, I think, is this
+: there are all kinds of sources of our knowledge;
+but _none has authority_.
+
+We may say that _The Times_ can be a source of knowledge, or the _Encyclopaedia Britannica_.
+We may say that certain papers in the _Physical Review_ about a problem in physics have more authority, and are more of the character of a source, than an article about the same problem in _The Times_ or the _Encyclopaedia_.
+But it would be quite wrong to say that the source of the article in the _Physical Review_ must have been wholly, or even partly, observation.
+The source may well be the discovery of an inconsistency in another paper, or say, the discovery of the fact that a hypothesis proposed in another paper could be tested by such and such an experiment;
+all these non-observational discoveries are 'sources' in the sense that they all add to our knowledge.
+
+I do not, of course, deny that an experiment may also add to our knowledge, and in a most important manner.
+But it is not a source in any ultimate sense.
+It has always to be checked:
+as in the example of the news in _The Times_ we do not, as a rule, question the eyewitness of an experiment, but, if we doubt the result, we may repeat the experiment, or ask somebody else to repeat it.
+
+The fundamental mistake made by the philosophical theory of the ultimate sources of our knowledge is that it does not distinguish clearly enough between questions of origin and <!-- page 27 (65) --> questions of validity. Admittedly, in the case of historiography, these two questions may sometimes coincide. The question of the validity of an historical assertion may be testable only, or mainly, in the light of the origin of certain sources. But in general the two questions are different; and in general we do not test the validity of an assertion or information by tracing its sources or its origin, but we test them, much more directly, by a critical examination of what has been asserted-of the asserted facts themselves.
 Thus the empiricist's questions 'How do you know? What is the source of your assertion?' are wrongly put. They are not formulated in an inexact or slovenly manner, but they are entirely misconceived: they are questions that beg for an authoritarian
 answer.
 XV
