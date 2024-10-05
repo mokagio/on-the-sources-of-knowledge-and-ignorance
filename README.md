@@ -632,17 +632,39 @@ These questions remain, whatever I may have said about Bacon, and even if I shou
 The problem of the source of our knowledge has recently been restated as follows.
 If we make an assertion, we must <!-- page 23 (61) --> justify it;
 but this means that we must be able to answer the following questions.
-'How do you know? What are the sources of your assertion? This, the empiricist holds, amounts in its turn to the question, 'What observations (or memories of observations) underlie your
-assertion?"
+
+'_How do you know? What are the sources of your assertion?_'
+This, the empiricist holds, amounts in its turn to the question,
+'_What observations (or memories of observations) underlie your assertion?_'
 I find this string of questions quite unsatisfactory.
-First of all, most of our assertions are not based upon ob- servations, but upon all kinds of other sources. 'I read it in The Times' or perhaps, 'I read it in the Encyclopaedia Britannica' is a more likely and a more definite answer to the question 'How do you know?' than 'I have observed it' or 'I know from an observa- tion I made last year'.
-'But', the empiricist will reply, 'how do you think that The Times or the Encyclopaedia Britannica got their information? Surely, if you only carry on your inquiry long enough, you will end up with reports of the observations of eyewitnesses (sometimes called "protocol sentences" or-by yourself "basic statements"). Admittedly', the empiricist will continue, 'books are largely made from other books. Admittedly, a historian, for example, will work from documents. But ultimately, in the last instance, these other books, or these documents, must have been based upon observations. Otherwise they would have to be described as poetry, or invention, or lies, but not as knowledge. It is in this sense that we empiricists assert that observation must be the ultimate source of our knowledge.'
+
+First of all, most of our assertions are not based upon observations, but upon all kinds of other sources.
+'I read it in _The Times_' or perhaps, 'I read it in the _Encyclopaedia Britannica_' is a more likely and a more definite answer to the question 'How do you know?' than 'I have observed it' or 'I know from an observation I made last year'.
+
+'But', the empiricist will reply, 'how do you think that _The Times_ or the _Encyclopaedia Britannica_ got their information?
+Surely, if you only carry on your inquiry long enough, you will end up with _reports of the observations of eyewitnesses_ (sometimes called "protocol sentences" or—by yourself—"basic statements").
+Admittedly', the empiricist will continue, 'books are largely made from other books.
+Admittedly, a historian, for example, will work from documents.
+But ultimately, in the last instance, these other books, or these documents, must have been based upon observations.
+Otherwise they would have to be described as poetry, or invention, or lies, but not as knowledge.
+It is in this sense that we empiricists assert that observation must be the ultimate source of our knowledge.'
+
 Here we have the empiricist's case, as it is still put by some of my positivist friends.
-I shall try to show that this case is as little valid as Bacon's; that the answer to the question of the sources of knowledge goes against the empiricist; and, finally, that this whole question of ultimate sources-sources to which one may appeal, as one might to a higher court, or a higher authority-must be rejected as based upon a mistake.
-First I want to show that if you actually went on questioning The Times and its correspondents about the sources of their knowledge, you would in fact never arrive at all those observa- tions of eyewitnesses in the existence of which the empiricist believes. You would find, rather, that with every single step you take, the need for further steps increases in snowball-like fashion. Take as an example the sort of assertion for which reasonable people might simply accept as sufficient the answer 'I read it in The Times'; let us say the assertion "The Prime Minister has
-62
-PROCEEDINGS OF THE BRITISH ACADEMY decided to return to London several days ahead of schedule'. Now assume for a moment that somebody doubts this assertion, or feels the need to investigate into its truth. What shall he do? If he has a friend in the Prime Minister's office, the simplest and most direct way would be to ring him up; and if this friend corroborated the message, then that is that.
-In other words, the investigator will, if possible, try to check, or to examine, the asserted fact itself, rather than trace the source of the information. But according to the empiricist theory, the assertion 'I have read it in The Times' is merely a first step in a justification procedure consisting in tracing the ultimate source. What is the next step?
+
+I shall try to show that this case is as little valid as Bacon's;
+that the answer to the question of the sources of knowledge goes against the empiricist;
+and, finally, that this whole question of ultimate sources—sources to which one may appeal, as one might to a higher court, or a higher authority—must be rejected as based upon a mistake.
+
+First I want to show that if you actually went on questioning _The Times_ and its correspondents about the sources of their knowledge, you would in fact never arrive at all those observations of eyewitnesses in the existence of which the empiricist believes.
+You would find, rather, that with every single step you take, the need for further steps increases in snowball-like fashion.
+
+Take as an example the sort of assertion for which reasonable people might simply accept as sufficient the answer 'I read it in _The Times_'; let us say the assertion "The Prime Minister has <!-- page 24 (62) --> decided to return to London several days ahead of schedule'.
+Now assume for a moment that somebody doubts this assertion, or feels the need to investigate into its truth.
+What shall he do?
+If he has a friend in the Prime Minister's office, the simplest and most direct way would be to ring him up;
+and if this friend corroborated the message, then that is that.
+
+In other words, the investigator will, if possible, try to check, or to examine, _the asserted fact itself_, rather than trace the source of the information. But according to the empiricist theory, the assertion 'I have read it in The Times' is merely a first step in a justification procedure consisting in tracing the ultimate source. What is the next step?
 There are at least two next steps. One would be to reflect that 'I have read it in The Times' is also an assertion, and that we might ask 'What is the source of your knowledge that
 you read it in The Times and not, say, in a paper looking very similar to The Times?' The other is to ask The Times for the sources of its knowledge. The answer to the first question may be 'But we have only The Times on order and we always get it in the morning' which gives rise to a host of further questions about sources which we shall not pursue. The second question may elicit from the editor of The Times the answer: 'We had a telephone call from the Prime Minister's office.' Now according to the empiricist procedure, we should at this stage ask next: 'Who is the gentle- man who received the telephone call?' and then get his observa- tion report; but we should also have to ask that gentleman: 'What is the source of your knowledge that the voice you heard came from an official in the Prime Minister's office', and so on.
 There is a simple reason why this tedious sequence of ques- tions never comes to a satisfactory conclusion. It is this. Every witness must always make ample use, in his report, of his knowledge of persons, places, things, linguistic usages, social conventions, and so on. He cannot rely merely upon his eyes or ears, especially if his report is to be of use in justifying any assertion worth justifying. But this fact must of course always raise new questions as to the sources of those elements of his knowledge which are not immediately observational.
