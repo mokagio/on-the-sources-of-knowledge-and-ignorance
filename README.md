@@ -530,8 +530,8 @@ At the same time, it states the meaning of a word—of the name that designates 
 (For example, Descartes, and also Kant, hold that the word 'body' designates something that is, essentially, extended.)
 
 <table>
-  <tr><td>IDEAS</td></tr>
-  <tr><td><em>that is</em></td></tr>
+  <tr><td colspan="2">IDEAS</td></tr>
+  <tr><td colspan="2"><em>that is</em></td></tr>
   <tr>
     <td>
       DESIGNATIONS or TERMS or CONCEPTS
@@ -540,7 +540,7 @@ At the same time, it states the meaning of a word—of the name that designates 
       STATEMENTS or JUDGEMENTS or PROPOSITIONS
     </td>
   </tr>
-  <tr><td><em>may be expressed by</em></td></tr>
+  <tr><td colspan="2"><em>may be expressed by</em></td></tr>
   <tr>
     <td>
       WORDS
@@ -549,7 +549,7 @@ At the same time, it states the meaning of a word—of the name that designates 
       ASSERTIONS
     </td>
   </tr>
-  <tr><td><em>which may be</em></td></tr>
+  <tr><td colspan="2"><em>which may be</em></td></tr>
   <tr>
     <td>
       MEANINGFUL
@@ -558,7 +558,7 @@ At the same time, it states the meaning of a word—of the name that designates 
       TRUE
     </td>
   </tr>
-  <tr><td><em>and their</em></td></tr>
+  <tr><td colspan="2"><em>and their</em></td></tr>
   <tr>
     <td>
       MEANING
@@ -567,7 +567,7 @@ At the same time, it states the meaning of a word—of the name that designates 
       TRUTH
     </td>
   </tr>
-  <tr><td><em>may be reduced, by way of</em></td></tr>
+  <tr><td colspan="2"><em>may be reduced, by way of</em></td></tr>
   <tr>
     <td>
       DEFINITIONS
@@ -576,7 +576,7 @@ At the same time, it states the meaning of a word—of the name that designates 
       DERIVATIONS
     </td>
   </tr>
-  <tr><td><em>to that of</em></td></tr>
+  <tr><td colspan="2"><em>to that of</em></td></tr>
   <tr>
     <td>
       UNDEFINED CONCEPTS
@@ -585,7 +585,7 @@ At the same time, it states the meaning of a word—of the name that designates 
       PRIMITIVE PROPOSITIONS
     </td>
   </tr>
-  <tr><td><em>Incidentally, the attempt to establish rather than to reduce their</em></td></tr>
+  <tr><td colspan="2"><em>Incidentally, the attempt to establish rather than to reduce their</em></td></tr>
   <tr>
     <td>
       MEANING
@@ -594,7 +594,7 @@ At the same time, it states the meaning of a word—of the name that designates 
       TRUTH
     </td>
   </tr>
-  <tr><td><em>by these means leads to an infinite regress</em></td></tr>
+  <tr><td colspan="2"><em>by these means leads to an infinite regress</em></td></tr>
 </table>
 
 Moreover, Aristotle and all other essentialists held that definitions are principles';
