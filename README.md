@@ -371,10 +371,21 @@ This is also clear from the phrase '_anticipatio deorum_' which means harbouring
 But to make matters still more obvious:
 'prejudice', of course, also derives from a legal term, and according to the _Oxford English Dictionary_ it was Bacon who introduced the verb 'to prejudge' into the English language, in the sense of 'to judge adversely in advance'—that is, in violation of the judge's duty.
 
-Thus the two methods are (1) 'the spelling out of the open book of Nature', leading to knowledge or _epistēmē_, and (2) 'the prejudice of the mind that wrongly prejudges, and perhaps mis- judges, Nature', leading to doxa, or mere guesswork, and to the misreading of the book of Nature. This latter method, rejected by Bacon, is in fact a method of interpretation, in the modern sense of the word. It is the method of conjecture or hypothesis (a method of which, incidentally, I happen to be a confirmed advocate).
-How can we prepare ourselves to read the book of Nature properly or truly? Bacon's answer is: by purging our minds of all anticipations or conjectures or guesses or prejudices. There are various things to be done in order so to purge our minds. We have to get rid of all sorts of idols, or generally held false beliefs; for these distort our observations. But we have also, like Socrates, to look out for all sorts of counter-instances by which to destroy our prejudices concerning the kind of thing whose true essence or nature we wish to ascertain. Like Socrates, we must purify our intellects before facing essence or nature (cf. St. Augustine, Civ. Dei. VIII. 3); and our impure prejudices must be exorcised by the invocation of counter-instances.
-THE SOURCES OF KNOWLEDGE AND IGNORANCE
-53
+Thus the two methods are (1) 'the spelling out of the open book of Nature', leading to knowledge or _epistēmē_, and (2) 'the prejudice of the mind that wrongly prejudges, and perhaps misjudges, Nature', leading to _doxa_, or mere guesswork, and to the misreading of the book of Nature.
+This latter method, rejected by Bacon, is in fact a method of interpretation, in the modern sense of the word.
+It is the _method of conjecture or hypothesis_ (a method of which, incidentally, I happen to be a confirmed advocate).
+
+How can we prepare ourselves to read the book of Nature properly or truly?
+Bacon's answer is:
+by purging our minds of all anticipations or conjectures or guesses or prejudices.
+There are various things to be done in order so to purge our minds.
+We have to get rid of all sorts of idols, or generally held false beliefs;
+for these distort our observations.
+But we have also, like Socrates, to look out for all sorts of counter-instances by which to destroy our prejudices concerning the kind of thing whose true essence or nature we wish to ascertain.
+Like Socrates, we must purify our intellects before facing essence or nature (cf. St. Augustine, _Civ. Dei._ VIII. 3);
+and our impure prejudices must be exorcised by the invocation of counter-instances.
+
+<!-- page 15 -->
 Only after our souls have been cleansed in this way may we begin the work of spelling out diligently the open book of Nature, the manifest truth.
 In view of all this I suggest that Baconian (and also Aristo- telian) induction is the same, fundamentally, as Socratic maieutic; that is to say, the preparation of the mind by cleansing it of prejudices, in order to enable it to recognize the manifest truth, or to read the open book of Nature.
 Descartes' method of systematic doubt is also fundamentally the same: it is a method of destroying all false prejudices of the mind, in order to arrive at the unshakable basis of self-evident truth.
