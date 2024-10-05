@@ -914,10 +914,27 @@ at any rate, by better reasons than that they have withstood criticism.
 This idea implies, as I suggested, that we must appeal to some ultimate or authoritative source of true knowledge;
 which still leaves open the character of that authority—whether it is human, like observation or reason, or super-human (and therefore super-natural).
 
-The second idea—whose vital importance has been stressed by Russell—is that no man's authority can establish truth by <!-- page 33 (71) --> decree; that we should submit to truth; that truth is above human authority.
-Taken together these two ideas almost immediately yield the conclusion that the sources from which our knowledge derives must be super-human; a conclusion which tends to encourage self-righteousness and the use of force against those who refuse to see the divine truth.
-Some who rightly reject this conclusion do not, unhappily, reject the first idea-the belief in the existence of ultimate sources of knowledge. Instead they reject the second idea-the thesis that truth is above human authority. They thereby en- danger the idea of the objectivity of knowledge, and of common standards of criticism or rationality.
-What we should do, I suggest, is to give up the idea of ultimate sources of knowledge, and admit that all knowledge is human; that it is mixed with our errors, our prejudices, our dreams, and our hopes; that all we can do is to grope for truth even though it be beyond our reach. We may admit that our groping is often inspired, but we must be on our guard against the belief, however deeply felt, that our inspiration carries any authority, divine or otherwise. If we thus admit that there is no authority beyond the reach of criticism to be found within the whole province of our knowledge, however far it may have penetrated into the unknown, then we can retain, without danger, the idea that truth is beyond human authority. And we must retain it; for without this idea there can be no objective standards of inquiry; no criticism of our conjectures; no groping for the unknown; no quest for knowledge.
+The second idea—whose vital importance has been stressed by Russell—is that no man's authority can establish truth by <!-- page 33 (71) --> decree;
+that we should submit to truth;
+that _truth is above human authority_.
+
+Taken together these two ideas almost immediately yield the conclusion that the sources from which our knowledge derives must be super-human;
+a conclusion which tends to encourage self-righteousness and the use of force against those who refuse to see the divine truth.
+
+Some who rightly reject this conclusion do not, unhappily, reject the first idea—the belief in the existence of ultimate sources of knowledge.
+Instead they reject the second idea—the thesis that truth is above human authority.
+They thereby endanger the idea of the objectivity of knowledge, and of common standards of criticism or rationality.
+
+What we should do, I suggest, is to give up the idea of ultimate sources of knowledge, and admit that all knowledge is human;
+that it is mixed with our errors, our prejudices, our dreams, and our hopes;
+that all we can do is to grope for truth even though it be beyond our reach.
+We may admit that our groping is often inspired, but we must be on our guard against the belief, however deeply felt, that our inspiration carries any authority, divine or otherwise.
+If we thus admit that there is no authority beyond the reach of criticism to be found within the whole province of our knowledge, however far it may have penetrated into the unknown, then we can retain, without danger, the idea that truth is beyond human authority.
+And we must retain it;
+for without this idea there can be no objective standards of inquiry;
+no criticism of our conjectures;
+no groping for the unknown;
+no quest for knowledge.
 
 ---
 
